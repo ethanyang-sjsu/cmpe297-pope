@@ -18,14 +18,14 @@ $USER/miniconda3/lib/python3.14/site-packages/lmms_eval
 
 ## To setup GQA:
 
-1. Move this repo's `./custom_tasks/` into `<lmms_eval path>/tasks/`
-2. Get GQA question data
+1. Get GQA question data
     - All split
         - `val-00000-of-00002.parquet` from https://huggingface.co/datasets/lmms-lab-encoder/GQA/tree/main/val_all_instructions
         - Run `gqa_all_to_jsonl.py`
     - Balanced split
         - `val-00000-of-00001.parquet` from https://huggingface.co/datasets/lmms-lab-encoder/GQA/tree/main/val_balanced_instructions
         - Run `gqa_balanced_to_jsonl.py`
+2. Move this repo's `./custom_tasks/` into `<lmms_eval path>/tasks/`
 3. Edit `./custom_tasks/custom_gqa_*.yaml`
     ```yaml
     dataset_kwargs:
