@@ -1,0 +1,20 @@
+task: "custom_gqa_all"
+dataset_path: json
+dataset_kwargs:
+  data_files:
+    test: "/home/ethan/finalproject/val_all/output.jsonl"
+test_split: test
+output_type: generate_until
+doc_to_visual: !function custom_gqa_all_utils.doc_to_visual
+doc_to_text: !function custom_gqa_all_utils.doc_to_text
+doc_to_target: "answer"
+generation_kwargs:
+  max_new_tokens: 128
+  temperature: 0
+  top_p: 1.0
+  num_beams: 1
+  do_sample: false
+lmms_eval_specific_kwargs:
+  default:
+    pre_prompt: "Look at the image carefully and answer the question based only on what is visibly present. Answer 'yes' only if you can clearly see it. If it is not visible, answer 'no'. If you cannot tell, answer 'unsure'.\n"
+    post_prompt: ""
