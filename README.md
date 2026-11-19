@@ -17,7 +17,6 @@ $USER/miniconda3/lib/python3.14/site-packages/lmms_eval
 ```
 
 ## To setup GQA:
-
 1. Get GQA question data
     - All split
         - `val-00000-of-00002.parquet` from https://huggingface.co/datasets/lmms-lab-encoder/GQA/tree/main/val_all_instructions
@@ -44,3 +43,14 @@ $USER/miniconda3/lib/python3.14/site-packages/lmms_eval
     --log_samples \
     --output_path ./logs/
     ```
+
+## To get metrics:
+1. Edit `manual_metrics.py`
+    ```py
+    FILE = "<log>"
+
+    # Example:
+    FILE = "./logs/Qwen__Qwen2.5-VL-3B-Instruct/20261118_175752_samples_custom_gqa_balanced.jsonl"
+    ```
+2. Run `manual_metrics.py`
+3. If needed, make edits to account for model responses that don't match `["yes", "no", "unsure"]`, and rerun
