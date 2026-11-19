@@ -1,6 +1,7 @@
 import json
 
-FILE = "/home/ethan/finalproject/logs/Qwen__Qwen2.5-VL-3B-Instruct/20261118_175752_samples_custom_gqa_all.jsonl"
+# FILE = "/home/ethan/finalproject/logs/Qwen__Qwen2.5-VL-3B-Instruct/20261118_175752_samples_custom_gqa_all.jsonl"
+FILE = "/home/ethan/finalproject/logs/Qwen__Qwen2.5-VL-3B-Instruct/20261118_175752_samples_custom_gqa_balanced.jsonl"
 
 
 def response_preview(records):
@@ -36,7 +37,7 @@ def foo(records):
                 num_tn += 1
             if r["target"] == "yes":
                 num_fn += 1
-        elif r["filtered_resps"] == "unsure":
+        elif r["filtered_resps"].lower().startswith("unsure"):
             if r["target"] == "yes":
                 abs_for_yes += 1
             if r["target"] == "no":
@@ -50,15 +51,13 @@ def foo(records):
 
     metric_dec_frac("Accuracy", num_correct, num_samples)
     precision = metric_dec_frac("Precision", num_tp, num_yes)
-    recall = metric_dec_frac("Recall", num_tp, num_tp+num_fn)
+    recall = metric_dec_frac("Recall", num_tp, num_tp+num_fn+abs_for_yes)
     metric_dec_frac("F1", 2 * precision * recall, precision + recall)
-    metric_dec_frac("Specificity", num_tn, num_tn+num_fp)
+    metric_dec_frac("Specificity", num_tn, num_tn+num_fp+abs_for_no)
     metric_dec_frac("Yes ratio", num_yes, num_samples)
-    metric_dec_frac("FP rate", num_fp, num_fp+num_tn)
-    metric_dec_frac("FN rate", num_fn, num_fn+num_tp)
+    metric_dec_frac("FP rate", num_fp, num_fp+num_tn+abs_for_no)
+    metric_dec_frac("FN rate", num_fn, num_fn+num_tp+abs_for_yes)
     metric_dec_frac("Abstention rate", num_abs, num_samples)
-    metric_dec_frac("Abstain when ground truth is yes", abs_for_yes, num_abs)
-    metric_dec_frac("Abstain when ground truth is no", abs_for_no, num_abs)
 
 
 with open(FILE, 'r') as f:
