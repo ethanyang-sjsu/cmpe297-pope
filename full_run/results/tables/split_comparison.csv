@@ -1,5 +1,0 @@
-dataset,prompt,metric,split_a,split_b,rate_a,rate_b,difference,ci_lo,ci_hi,significant
-coco,ordinary,hallucination_rate,random,popular,0.008000,0.036667,0.028667,0.018667,0.039333,1
-coco,ordinary,hallucination_rate,random,adversarial,0.008000,0.057333,0.049333,0.038000,0.060667,1
-gqa,ordinary,hallucination_rate,random,popular,0.018667,0.090000,0.071333,0.056000,0.088000,1
-gqa,ordinary,hallucination_rate,random,adversarial,0.018667,0.104667,0.086000,0.068667,0.102683,1

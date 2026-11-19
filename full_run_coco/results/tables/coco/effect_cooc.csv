@@ -1,0 +1,97 @@
+dataset,grouping,split,prompt,group,n,hallucination_rate,abstention_rate
+coco,cooc_quartile,pooled,ordinary,Q1 (0.00-0.02),907,0.003308,0.000000
+coco,cooc_quartile,pooled,ordinary,Q2 (0.02-0.09),908,0.011013,0.000000
+coco,cooc_quartile,pooled,ordinary,Q3 (0.09-0.21),907,0.029768,0.000000
+coco,cooc_quartile,pooled,ordinary,Q4 (0.21-0.86),908,0.069383,0.000000
+coco,cooc_quartile,pooled,neutral,Q1 (0.00-0.02),907,0.001103,0.000000
+coco,cooc_quartile,pooled,neutral,Q2 (0.02-0.09),908,0.009912,0.000000
+coco,cooc_quartile,pooled,neutral,Q3 (0.09-0.21),907,0.026461,0.000000
+coco,cooc_quartile,pooled,neutral,Q4 (0.21-0.86),908,0.075991,0.000000
+coco,cooc_quartile,pooled,evidence,Q1 (0.00-0.02),907,0.006615,0.620728
+coco,cooc_quartile,pooled,evidence,Q2 (0.02-0.09),908,0.025330,0.632159
+coco,cooc_quartile,pooled,evidence,Q3 (0.09-0.21),907,0.070562,0.554576
+coco,cooc_quartile,pooled,evidence,Q4 (0.21-0.86),908,0.122247,0.468062
+coco,cooc_quartile,random,ordinary,Q1 (0.00-0.02),876,0.003425,0.000000
+coco,cooc_quartile,random,ordinary,Q2 (0.02-0.09),452,0.011062,0.000000
+coco,cooc_quartile,random,ordinary,Q3 (0.09-0.21),125,0.016000,0.000000
+coco,cooc_quartile,random,ordinary,Q4 (0.21-0.86),47,0.042553,0.000000
+coco,cooc_quartile,random,neutral,Q1 (0.00-0.02),876,0.001142,0.000000
+coco,cooc_quartile,random,neutral,Q2 (0.02-0.09),452,0.008850,0.000000
+coco,cooc_quartile,random,neutral,Q3 (0.09-0.21),125,0.024000,0.000000
+coco,cooc_quartile,random,neutral,Q4 (0.21-0.86),47,0.042553,0.000000
+coco,cooc_quartile,random,evidence,Q1 (0.00-0.02),876,0.006849,0.624429
+coco,cooc_quartile,random,evidence,Q2 (0.02-0.09),452,0.026549,0.599558
+coco,cooc_quartile,random,evidence,Q3 (0.09-0.21),125,0.056000,0.616000
+coco,cooc_quartile,random,evidence,Q4 (0.21-0.86),47,0.085106,0.595745
+coco,cooc_quartile,popular,ordinary,Q1 (0.00-0.02),31,0.000000,0.000000
+coco,cooc_quartile,popular,ordinary,Q2 (0.02-0.09),402,0.007463,0.000000
+coco,cooc_quartile,popular,ordinary,Q3 (0.09-0.21),459,0.015251,0.000000
+coco,cooc_quartile,popular,ordinary,Q4 (0.21-0.86),608,0.074013,0.000000
+coco,cooc_quartile,popular,neutral,Q1 (0.00-0.02),31,0.000000,0.000000
+coco,cooc_quartile,popular,neutral,Q2 (0.02-0.09),402,0.007463,0.000000
+coco,cooc_quartile,popular,neutral,Q3 (0.09-0.21),459,0.006536,0.000000
+coco,cooc_quartile,popular,neutral,Q4 (0.21-0.86),608,0.075658,0.000000
+coco,cooc_quartile,popular,evidence,Q1 (0.00-0.02),31,0.000000,0.516129
+coco,cooc_quartile,popular,evidence,Q2 (0.02-0.09),402,0.017413,0.669154
+coco,cooc_quartile,popular,evidence,Q3 (0.09-0.21),459,0.039216,0.590414
+coco,cooc_quartile,popular,evidence,Q4 (0.21-0.86),608,0.115132,0.481908
+coco,cooc_quartile,adversarial,ordinary,Q1 (0.00-0.02),1,0.000000,0.000000
+coco,cooc_quartile,adversarial,ordinary,Q2 (0.02-0.09),136,0.022059,0.000000
+coco,cooc_quartile,adversarial,ordinary,Q3 (0.09-0.21),584,0.039384,0.000000
+coco,cooc_quartile,adversarial,ordinary,Q4 (0.21-0.86),779,0.077022,0.000000
+coco,cooc_quartile,adversarial,neutral,Q1 (0.00-0.02),1,0.000000,0.000000
+coco,cooc_quartile,adversarial,neutral,Q2 (0.02-0.09),136,0.022059,0.000000
+coco,cooc_quartile,adversarial,neutral,Q3 (0.09-0.21),584,0.037671,0.000000
+coco,cooc_quartile,adversarial,neutral,Q4 (0.21-0.86),779,0.084724,0.000000
+coco,cooc_quartile,adversarial,evidence,Q1 (0.00-0.02),1,0.000000,1.000000
+coco,cooc_quartile,adversarial,evidence,Q2 (0.02-0.09),136,0.036765,0.514706
+coco,cooc_quartile,adversarial,evidence,Q3 (0.09-0.21),584,0.087329,0.515411
+coco,cooc_quartile,adversarial,evidence,Q4 (0.21-0.86),779,0.136072,0.454429
+coco,freq_rank_band,pooled,ordinary,1-5,1496,0.035428,0.000000
+coco,freq_rank_band,pooled,ordinary,6-20,787,0.041931,0.000000
+coco,freq_rank_band,pooled,ordinary,21-50,742,0.016173,0.000000
+coco,freq_rank_band,pooled,ordinary,51+,605,0.008264,0.000000
+coco,freq_rank_band,pooled,neutral,1-5,1496,0.034091,0.000000
+coco,freq_rank_band,pooled,neutral,6-20,787,0.044473,0.000000
+coco,freq_rank_band,pooled,neutral,21-50,742,0.018868,0.000000
+coco,freq_rank_band,pooled,neutral,51+,605,0.004959,0.000000
+coco,freq_rank_band,pooled,evidence,1-5,1496,0.060829,0.566845
+coco,freq_rank_band,pooled,evidence,6-20,787,0.101652,0.545108
+coco,freq_rank_band,pooled,evidence,21-50,742,0.033693,0.580863
+coco,freq_rank_band,pooled,evidence,51+,605,0.013223,0.590083
+coco,freq_rank_band,random,ordinary,1-5,62,0.016129,0.000000
+coco,freq_rank_band,random,ordinary,6-20,285,0.010526,0.000000
+coco,freq_rank_band,random,ordinary,21-50,573,0.008726,0.000000
+coco,freq_rank_band,random,ordinary,51+,580,0.005172,0.000000
+coco,freq_rank_band,random,neutral,1-5,62,0.016129,0.000000
+coco,freq_rank_band,random,neutral,6-20,285,0.010526,0.000000
+coco,freq_rank_band,random,neutral,21-50,573,0.008726,0.000000
+coco,freq_rank_band,random,neutral,51+,580,0.001724,0.000000
+coco,freq_rank_band,random,evidence,1-5,62,0.048387,0.661290
+coco,freq_rank_band,random,evidence,6-20,285,0.031579,0.638596
+coco,freq_rank_band,random,evidence,21-50,573,0.019197,0.623037
+coco,freq_rank_band,random,evidence,51+,580,0.010345,0.591379
+coco,freq_rank_band,popular,ordinary,1-5,1430,0.036364,0.000000
+coco,freq_rank_band,popular,ordinary,6-20,70,0.042857,0.000000
+coco,freq_rank_band,popular,ordinary,21-50,0,nan,nan
+coco,freq_rank_band,popular,ordinary,51+,0,nan,nan
+coco,freq_rank_band,popular,neutral,1-5,1430,0.034266,0.000000
+coco,freq_rank_band,popular,neutral,6-20,70,0.042857,0.000000
+coco,freq_rank_band,popular,neutral,21-50,0,nan,nan
+coco,freq_rank_band,popular,neutral,51+,0,nan,nan
+coco,freq_rank_band,popular,evidence,1-5,1430,0.058042,0.569930
+coco,freq_rank_band,popular,evidence,6-20,70,0.171429,0.485714
+coco,freq_rank_band,popular,evidence,21-50,0,nan,nan
+coco,freq_rank_band,popular,evidence,51+,0,nan,nan
+coco,freq_rank_band,adversarial,ordinary,1-5,809,0.058096,0.000000
+coco,freq_rank_band,adversarial,ordinary,6-20,491,0.059063,0.000000
+coco,freq_rank_band,adversarial,ordinary,21-50,174,0.045977,0.000000
+coco,freq_rank_band,adversarial,ordinary,51+,26,0.076923,0.000000
+coco,freq_rank_band,adversarial,neutral,1-5,809,0.058096,0.000000
+coco,freq_rank_band,adversarial,neutral,6-20,491,0.065173,0.000000
+coco,freq_rank_band,adversarial,neutral,21-50,174,0.057471,0.000000
+coco,freq_rank_band,adversarial,neutral,51+,26,0.076923,0.000000
+coco,freq_rank_band,adversarial,evidence,1-5,809,0.095179,0.483313
+coco,freq_rank_band,adversarial,evidence,6-20,491,0.138493,0.498982
+coco,freq_rank_band,adversarial,evidence,21-50,174,0.086207,0.436782
+coco,freq_rank_band,adversarial,evidence,51+,26,0.076923,0.538462
