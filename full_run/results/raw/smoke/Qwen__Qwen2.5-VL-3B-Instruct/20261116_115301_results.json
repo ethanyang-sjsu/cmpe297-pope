@@ -1,0 +1,1006 @@
+{
+  "results": {
+    "pope_coco_evidence": {
+      "alias": "pope_coco_evidence",
+      "pope_accuracy,none": 0.7,
+      "pope_accuracy_stderr,none": "N/A",
+      "pope_accuracy_stderr_clt,none": "N/A",
+      "pope_accuracy_stderr_clustered,none": "N/A",
+      "pope_precision,none": 1.0,
+      "pope_precision_stderr,none": "N/A",
+      "pope_precision_stderr_clt,none": "N/A",
+      "pope_precision_stderr_clustered,none": "N/A",
+      "pope_recall,none": 1.0,
+      "pope_recall_stderr,none": "N/A",
+      "pope_recall_stderr_clt,none": "N/A",
+      "pope_recall_stderr_clustered,none": "N/A",
+      "pope_f1_score,none": 1.0,
+      "pope_f1_score_stderr,none": "N/A",
+      "pope_f1_score_stderr_clt,none": "N/A",
+      "pope_f1_score_stderr_clustered,none": "N/A",
+      "pope_specificity,none": 0.4,
+      "pope_specificity_stderr,none": "N/A",
+      "pope_specificity_stderr_clt,none": "N/A",
+      "pope_specificity_stderr_clustered,none": "N/A",
+      "pope_hallucination_rate,none": 0.0,
+      "pope_hallucination_rate_stderr,none": "N/A",
+      "pope_hallucination_rate_stderr_clt,none": "N/A",
+      "pope_hallucination_rate_stderr_clustered,none": "N/A",
+      "pope_abstention_rate,none": 0.3,
+      "pope_abstention_rate_stderr,none": "N/A",
+      "pope_abstention_rate_stderr_clt,none": "N/A",
+      "pope_abstention_rate_stderr_clustered,none": "N/A",
+      "pope_yes_ratio,none": 0.5,
+      "pope_yes_ratio_stderr,none": "N/A",
+      "pope_yes_ratio_stderr_clt,none": "N/A",
+      "pope_yes_ratio_stderr_clustered,none": "N/A"
+    },
+    "pope_coco_neutral": {
+      "alias": "pope_coco_neutral",
+      "pope_accuracy,none": 1.0,
+      "pope_accuracy_stderr,none": "N/A",
+      "pope_accuracy_stderr_clt,none": "N/A",
+      "pope_accuracy_stderr_clustered,none": "N/A",
+      "pope_precision,none": 1.0,
+      "pope_precision_stderr,none": "N/A",
+      "pope_precision_stderr_clt,none": "N/A",
+      "pope_precision_stderr_clustered,none": "N/A",
+      "pope_recall,none": 1.0,
+      "pope_recall_stderr,none": "N/A",
+      "pope_recall_stderr_clt,none": "N/A",
+      "pope_recall_stderr_clustered,none": "N/A",
+      "pope_f1_score,none": 1.0,
+      "pope_f1_score_stderr,none": "N/A",
+      "pope_f1_score_stderr_clt,none": "N/A",
+      "pope_f1_score_stderr_clustered,none": "N/A",
+      "pope_specificity,none": 1.0,
+      "pope_specificity_stderr,none": "N/A",
+      "pope_specificity_stderr_clt,none": "N/A",
+      "pope_specificity_stderr_clustered,none": "N/A",
+      "pope_hallucination_rate,none": 0.0,
+      "pope_hallucination_rate_stderr,none": "N/A",
+      "pope_hallucination_rate_stderr_clt,none": "N/A",
+      "pope_hallucination_rate_stderr_clustered,none": "N/A",
+      "pope_abstention_rate,none": 0.0,
+      "pope_abstention_rate_stderr,none": "N/A",
+      "pope_abstention_rate_stderr_clt,none": "N/A",
+      "pope_abstention_rate_stderr_clustered,none": "N/A",
+      "pope_yes_ratio,none": 0.5,
+      "pope_yes_ratio_stderr,none": "N/A",
+      "pope_yes_ratio_stderr_clt,none": "N/A",
+      "pope_yes_ratio_stderr_clustered,none": "N/A"
+    },
+    "pope_coco_ordinary": {
+      "alias": "pope_coco_ordinary",
+      "pope_accuracy,none": 1.0,
+      "pope_accuracy_stderr,none": "N/A",
+      "pope_accuracy_stderr_clt,none": "N/A",
+      "pope_accuracy_stderr_clustered,none": "N/A",
+      "pope_precision,none": 1.0,
+      "pope_precision_stderr,none": "N/A",
+      "pope_precision_stderr_clt,none": "N/A",
+      "pope_precision_stderr_clustered,none": "N/A",
+      "pope_recall,none": 1.0,
+      "pope_recall_stderr,none": "N/A",
+      "pope_recall_stderr_clt,none": "N/A",
+      "pope_recall_stderr_clustered,none": "N/A",
+      "pope_f1_score,none": 1.0,
+      "pope_f1_score_stderr,none": "N/A",
+      "pope_f1_score_stderr_clt,none": "N/A",
+      "pope_f1_score_stderr_clustered,none": "N/A",
+      "pope_specificity,none": 1.0,
+      "pope_specificity_stderr,none": "N/A",
+      "pope_specificity_stderr_clt,none": "N/A",
+      "pope_specificity_stderr_clustered,none": "N/A",
+      "pope_hallucination_rate,none": 0.0,
+      "pope_hallucination_rate_stderr,none": "N/A",
+      "pope_hallucination_rate_stderr_clt,none": "N/A",
+      "pope_hallucination_rate_stderr_clustered,none": "N/A",
+      "pope_abstention_rate,none": 0.0,
+      "pope_abstention_rate_stderr,none": "N/A",
+      "pope_abstention_rate_stderr_clt,none": "N/A",
+      "pope_abstention_rate_stderr_clustered,none": "N/A",
+      "pope_yes_ratio,none": 0.5,
+      "pope_yes_ratio_stderr,none": "N/A",
+      "pope_yes_ratio_stderr_clt,none": "N/A",
+      "pope_yes_ratio_stderr_clustered,none": "N/A"
+    },
+    "pope_gqa_evidence": {
+      "alias": "pope_gqa_evidence",
+      "pope_accuracy,none": 0.55,
+      "pope_accuracy_stderr,none": "N/A",
+      "pope_accuracy_stderr_clt,none": "N/A",
+      "pope_accuracy_stderr_clustered,none": "N/A",
+      "pope_precision,none": 1.0,
+      "pope_precision_stderr,none": "N/A",
+      "pope_precision_stderr_clt,none": "N/A",
+      "pope_precision_stderr_clustered,none": "N/A",
+      "pope_recall,none": 0.8,
+      "pope_recall_stderr,none": "N/A",
+      "pope_recall_stderr_clt,none": "N/A",
+      "pope_recall_stderr_clustered,none": "N/A",
+      "pope_f1_score,none": 0.888888888888889,
+      "pope_f1_score_stderr,none": "N/A",
+      "pope_f1_score_stderr_clt,none": "N/A",
+      "pope_f1_score_stderr_clustered,none": "N/A",
+      "pope_specificity,none": 0.3,
+      "pope_specificity_stderr,none": "N/A",
+      "pope_specificity_stderr_clt,none": "N/A",
+      "pope_specificity_stderr_clustered,none": "N/A",
+      "pope_hallucination_rate,none": 0.0,
+      "pope_hallucination_rate_stderr,none": "N/A",
+      "pope_hallucination_rate_stderr_clt,none": "N/A",
+      "pope_hallucination_rate_stderr_clustered,none": "N/A",
+      "pope_abstention_rate,none": 0.35,
+      "pope_abstention_rate_stderr,none": "N/A",
+      "pope_abstention_rate_stderr_clt,none": "N/A",
+      "pope_abstention_rate_stderr_clustered,none": "N/A",
+      "pope_yes_ratio,none": 0.4,
+      "pope_yes_ratio_stderr,none": "N/A",
+      "pope_yes_ratio_stderr_clt,none": "N/A",
+      "pope_yes_ratio_stderr_clustered,none": "N/A"
+    },
+    "pope_gqa_neutral": {
+      "alias": "pope_gqa_neutral",
+      "pope_accuracy,none": 0.85,
+      "pope_accuracy_stderr,none": "N/A",
+      "pope_accuracy_stderr_clt,none": "N/A",
+      "pope_accuracy_stderr_clustered,none": "N/A",
+      "pope_precision,none": 1.0,
+      "pope_precision_stderr,none": "N/A",
+      "pope_precision_stderr_clt,none": "N/A",
+      "pope_precision_stderr_clustered,none": "N/A",
+      "pope_recall,none": 0.7,
+      "pope_recall_stderr,none": "N/A",
+      "pope_recall_stderr_clt,none": "N/A",
+      "pope_recall_stderr_clustered,none": "N/A",
+      "pope_f1_score,none": 0.8235294117647058,
+      "pope_f1_score_stderr,none": "N/A",
+      "pope_f1_score_stderr_clt,none": "N/A",
+      "pope_f1_score_stderr_clustered,none": "N/A",
+      "pope_specificity,none": 1.0,
+      "pope_specificity_stderr,none": "N/A",
+      "pope_specificity_stderr_clt,none": "N/A",
+      "pope_specificity_stderr_clustered,none": "N/A",
+      "pope_hallucination_rate,none": 0.0,
+      "pope_hallucination_rate_stderr,none": "N/A",
+      "pope_hallucination_rate_stderr_clt,none": "N/A",
+      "pope_hallucination_rate_stderr_clustered,none": "N/A",
+      "pope_abstention_rate,none": 0.0,
+      "pope_abstention_rate_stderr,none": "N/A",
+      "pope_abstention_rate_stderr_clt,none": "N/A",
+      "pope_abstention_rate_stderr_clustered,none": "N/A",
+      "pope_yes_ratio,none": 0.35,
+      "pope_yes_ratio_stderr,none": "N/A",
+      "pope_yes_ratio_stderr_clt,none": "N/A",
+      "pope_yes_ratio_stderr_clustered,none": "N/A"
+    },
+    "pope_gqa_ordinary": {
+      "alias": "pope_gqa_ordinary",
+      "pope_accuracy,none": 0.85,
+      "pope_accuracy_stderr,none": "N/A",
+      "pope_accuracy_stderr_clt,none": "N/A",
+      "pope_accuracy_stderr_clustered,none": "N/A",
+      "pope_precision,none": 1.0,
+      "pope_precision_stderr,none": "N/A",
+      "pope_precision_stderr_clt,none": "N/A",
+      "pope_precision_stderr_clustered,none": "N/A",
+      "pope_recall,none": 0.7,
+      "pope_recall_stderr,none": "N/A",
+      "pope_recall_stderr_clt,none": "N/A",
+      "pope_recall_stderr_clustered,none": "N/A",
+      "pope_f1_score,none": 0.8235294117647058,
+      "pope_f1_score_stderr,none": "N/A",
+      "pope_f1_score_stderr_clt,none": "N/A",
+      "pope_f1_score_stderr_clustered,none": "N/A",
+      "pope_specificity,none": 1.0,
+      "pope_specificity_stderr,none": "N/A",
+      "pope_specificity_stderr_clt,none": "N/A",
+      "pope_specificity_stderr_clustered,none": "N/A",
+      "pope_hallucination_rate,none": 0.0,
+      "pope_hallucination_rate_stderr,none": "N/A",
+      "pope_hallucination_rate_stderr_clt,none": "N/A",
+      "pope_hallucination_rate_stderr_clustered,none": "N/A",
+      "pope_abstention_rate,none": 0.0,
+      "pope_abstention_rate_stderr,none": "N/A",
+      "pope_abstention_rate_stderr_clt,none": "N/A",
+      "pope_abstention_rate_stderr_clustered,none": "N/A",
+      "pope_yes_ratio,none": 0.35,
+      "pope_yes_ratio_stderr,none": "N/A",
+      "pope_yes_ratio_stderr_clt,none": "N/A",
+      "pope_yes_ratio_stderr_clustered,none": "N/A"
+    }
+  },
+  "group_subtasks": {
+    "pope_coco_evidence": [],
+    "pope_coco_neutral": [],
+    "pope_coco_ordinary": [],
+    "pope_gqa_evidence": [],
+    "pope_gqa_neutral": [],
+    "pope_gqa_ordinary": []
+  },
+  "configs": {
+    "pope_coco_evidence": {
+      "task": "pope_coco_evidence",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": {
+          "test": "/mnt/c/Users/<you>/Documents/MSAI Classes/CMPE 297 - Computer Vision/Project/data/eval_sets/coco_pope.jsonl"
+        }
+      },
+      "test_split": "test",
+      "full_docs": false,
+      "process_results_use_image": false,
+      "doc_to_visual": "<function pope_doc_to_visual at 0x79d5027cdee0>",
+      "doc_to_text": "<function doc_to_text_evidence at 0x79d4f8342ac0>",
+      "doc_to_target": "answer",
+      "stateful": false,
+      "process_results": "<function pope_process_results at 0x79d499130040>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "pope_accuracy",
+          "aggregation": "<function pope_aggregate_accuracy at 0x79d499130f40>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_precision",
+          "aggregation": "<function pope_aggregate_precision at 0x79d499131b20>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_recall",
+          "aggregation": "<function pope_aggregate_recall at 0x79d499132700>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_f1_score",
+          "aggregation": "<function pope_aggregate_f1_score at 0x79d4991332e0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_specificity",
+          "aggregation": "<function pope_aggregate_specificity at 0x79d499133ec0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_hallucination_rate",
+          "aggregation": "<function pope_aggregate_hallucination_rate at 0x79d49913cae0>",
+          "higher_is_better": false
+        },
+        {
+          "metric": "pope_abstention_rate",
+          "aggregation": "<function pope_aggregate_abstention_rate at 0x79d49913d6c0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_yes_ratio",
+          "aggregation": "<function pope_aggregate_yes_ratio at 0x79d49913e2a0>",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "max_new_tokens": 16,
+        "temperature": 0.0,
+        "top_p": 1.0,
+        "num_beams": 1,
+        "do_sample": false,
+        "until": [
+          "\n\n"
+        ]
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "score_key": "score",
+      "metadata": [
+        {
+          "version": 1.0
+        }
+      ],
+      "auto_strip_thinking": false
+    },
+    "pope_coco_neutral": {
+      "task": "pope_coco_neutral",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": {
+          "test": "/mnt/c/Users/<you>/Documents/MSAI Classes/CMPE 297 - Computer Vision/Project/data/eval_sets/coco_pope.jsonl"
+        }
+      },
+      "test_split": "test",
+      "full_docs": false,
+      "process_results_use_image": false,
+      "doc_to_visual": "<function pope_doc_to_visual at 0x79d4991eede0>",
+      "doc_to_text": "<function doc_to_text_neutral at 0x79d4991ef6a0>",
+      "doc_to_target": "answer",
+      "stateful": false,
+      "process_results": "<function pope_process_results at 0x79d4991ed1c0>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "pope_accuracy",
+          "aggregation": "<function pope_aggregate_accuracy at 0x79d4991ed6c0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_precision",
+          "aggregation": "<function pope_aggregate_precision at 0x79d496504860>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_recall",
+          "aggregation": "<function pope_aggregate_recall at 0x79d496505440>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_f1_score",
+          "aggregation": "<function pope_aggregate_f1_score at 0x79d496506020>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_specificity",
+          "aggregation": "<function pope_aggregate_specificity at 0x79d496506c00>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_hallucination_rate",
+          "aggregation": "<function pope_aggregate_hallucination_rate at 0x79d4965077e0>",
+          "higher_is_better": false
+        },
+        {
+          "metric": "pope_abstention_rate",
+          "aggregation": "<function pope_aggregate_abstention_rate at 0x79d496518400>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_yes_ratio",
+          "aggregation": "<function pope_aggregate_yes_ratio at 0x79d496518fe0>",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "max_new_tokens": 16,
+        "temperature": 0.0,
+        "top_p": 1.0,
+        "num_beams": 1,
+        "do_sample": false,
+        "until": [
+          "\n\n"
+        ]
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "score_key": "score",
+      "metadata": [
+        {
+          "version": 1.0
+        }
+      ],
+      "auto_strip_thinking": false
+    },
+    "pope_coco_ordinary": {
+      "task": "pope_coco_ordinary",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": {
+          "test": "/mnt/c/Users/<you>/Documents/MSAI Classes/CMPE 297 - Computer Vision/Project/data/eval_sets/coco_pope.jsonl"
+        }
+      },
+      "test_split": "test",
+      "full_docs": false,
+      "process_results_use_image": false,
+      "doc_to_visual": "<function pope_doc_to_visual at 0x79d496519bc0>",
+      "doc_to_text": "<function doc_to_text_ordinary at 0x79d49651a0c0>",
+      "doc_to_target": "answer",
+      "stateful": false,
+      "process_results": "<function pope_process_results at 0x79d49651aac0>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "pope_accuracy",
+          "aggregation": "<function pope_aggregate_accuracy at 0x79d49651b9c0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_precision",
+          "aggregation": "<function pope_aggregate_precision at 0x79d4965285e0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_recall",
+          "aggregation": "<function pope_aggregate_recall at 0x79d4965291c0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_f1_score",
+          "aggregation": "<function pope_aggregate_f1_score at 0x79d496529da0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_specificity",
+          "aggregation": "<function pope_aggregate_specificity at 0x79d49652a980>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_hallucination_rate",
+          "aggregation": "<function pope_aggregate_hallucination_rate at 0x79d49652b560>",
+          "higher_is_better": false
+        },
+        {
+          "metric": "pope_abstention_rate",
+          "aggregation": "<function pope_aggregate_abstention_rate at 0x79d496534180>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_yes_ratio",
+          "aggregation": "<function pope_aggregate_yes_ratio at 0x79d496534d60>",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "max_new_tokens": 16,
+        "temperature": 0.0,
+        "top_p": 1.0,
+        "num_beams": 1,
+        "do_sample": false,
+        "until": [
+          "\n\n"
+        ]
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "score_key": "score",
+      "metadata": [
+        {
+          "version": 1.0
+        }
+      ],
+      "auto_strip_thinking": false
+    },
+    "pope_gqa_evidence": {
+      "task": "pope_gqa_evidence",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": {
+          "test": "/mnt/c/Users/<you>/Documents/MSAI Classes/CMPE 297 - Computer Vision/Project/data/eval_sets/gqa_pope.jsonl"
+        }
+      },
+      "test_split": "test",
+      "full_docs": false,
+      "process_results_use_image": false,
+      "doc_to_visual": "<function pope_doc_to_visual at 0x79d4965359e0>",
+      "doc_to_text": "<function doc_to_text_evidence at 0x79d496535b20>",
+      "doc_to_target": "answer",
+      "stateful": false,
+      "process_results": "<function pope_process_results at 0x79d4965367a0>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "pope_accuracy",
+          "aggregation": "<function pope_aggregate_accuracy at 0x79d4965376a0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_precision",
+          "aggregation": "<function pope_aggregate_precision at 0x79d49654c2c0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_recall",
+          "aggregation": "<function pope_aggregate_recall at 0x79d49654cea0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_f1_score",
+          "aggregation": "<function pope_aggregate_f1_score at 0x79d49654da80>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_specificity",
+          "aggregation": "<function pope_aggregate_specificity at 0x79d49654e660>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_hallucination_rate",
+          "aggregation": "<function pope_aggregate_hallucination_rate at 0x79d49654f240>",
+          "higher_is_better": false
+        },
+        {
+          "metric": "pope_abstention_rate",
+          "aggregation": "<function pope_aggregate_abstention_rate at 0x79d49654fe20>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_yes_ratio",
+          "aggregation": "<function pope_aggregate_yes_ratio at 0x79d496578a40>",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "max_new_tokens": 16,
+        "temperature": 0.0,
+        "top_p": 1.0,
+        "num_beams": 1,
+        "do_sample": false,
+        "until": [
+          "\n\n"
+        ]
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "score_key": "score",
+      "metadata": [
+        {
+          "version": 1.0
+        }
+      ],
+      "auto_strip_thinking": false
+    },
+    "pope_gqa_neutral": {
+      "task": "pope_gqa_neutral",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": {
+          "test": "/mnt/c/Users/<you>/Documents/MSAI Classes/CMPE 297 - Computer Vision/Project/data/eval_sets/gqa_pope.jsonl"
+        }
+      },
+      "test_split": "test",
+      "full_docs": false,
+      "process_results_use_image": false,
+      "doc_to_visual": "<function pope_doc_to_visual at 0x79d49657aca0>",
+      "doc_to_text": "<function doc_to_text_neutral at 0x79d49657b560>",
+      "doc_to_target": "answer",
+      "stateful": false,
+      "process_results": "<function pope_process_results at 0x79d496594180>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "pope_accuracy",
+          "aggregation": "<function pope_aggregate_accuracy at 0x79d49657a340>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_precision",
+          "aggregation": "<function pope_aggregate_precision at 0x79d496579260>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_recall",
+          "aggregation": "<function pope_aggregate_recall at 0x79d496595300>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_f1_score",
+          "aggregation": "<function pope_aggregate_f1_score at 0x79d496595ee0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_specificity",
+          "aggregation": "<function pope_aggregate_specificity at 0x79d496596ac0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_hallucination_rate",
+          "aggregation": "<function pope_aggregate_hallucination_rate at 0x79d4965976a0>",
+          "higher_is_better": false
+        },
+        {
+          "metric": "pope_abstention_rate",
+          "aggregation": "<function pope_aggregate_abstention_rate at 0x79d4965a02c0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_yes_ratio",
+          "aggregation": "<function pope_aggregate_yes_ratio at 0x79d4965a0ea0>",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "max_new_tokens": 16,
+        "temperature": 0.0,
+        "top_p": 1.0,
+        "num_beams": 1,
+        "do_sample": false,
+        "until": [
+          "\n\n"
+        ]
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "score_key": "score",
+      "metadata": [
+        {
+          "version": 1.0
+        }
+      ],
+      "auto_strip_thinking": false
+    },
+    "pope_gqa_ordinary": {
+      "task": "pope_gqa_ordinary",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": {
+          "test": "/mnt/c/Users/<you>/Documents/MSAI Classes/CMPE 297 - Computer Vision/Project/data/eval_sets/gqa_pope.jsonl"
+        }
+      },
+      "test_split": "test",
+      "full_docs": false,
+      "process_results_use_image": false,
+      "doc_to_visual": "<function pope_doc_to_visual at 0x79d4965a1c60>",
+      "doc_to_text": "<function doc_to_text_ordinary at 0x79d4965a0540>",
+      "doc_to_target": "answer",
+      "stateful": false,
+      "process_results": "<function pope_process_results at 0x79d4965a28e0>",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "pope_accuracy",
+          "aggregation": "<function pope_aggregate_accuracy at 0x79d4965a37e0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_precision",
+          "aggregation": "<function pope_aggregate_precision at 0x79d4965bc400>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_recall",
+          "aggregation": "<function pope_aggregate_recall at 0x79d4965bcfe0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_f1_score",
+          "aggregation": "<function pope_aggregate_f1_score at 0x79d4965bdbc0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_specificity",
+          "aggregation": "<function pope_aggregate_specificity at 0x79d4965be7a0>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_hallucination_rate",
+          "aggregation": "<function pope_aggregate_hallucination_rate at 0x79d4965bf380>",
+          "higher_is_better": false
+        },
+        {
+          "metric": "pope_abstention_rate",
+          "aggregation": "<function pope_aggregate_abstention_rate at 0x79d4965bff60>",
+          "higher_is_better": true
+        },
+        {
+          "metric": "pope_yes_ratio",
+          "aggregation": "<function pope_aggregate_yes_ratio at 0x79d4965c4b80>",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "max_new_tokens": 16,
+        "temperature": 0.0,
+        "top_p": 1.0,
+        "num_beams": 1,
+        "do_sample": false,
+        "until": [
+          "\n\n"
+        ]
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "score_key": "score",
+      "metadata": [
+        {
+          "version": 1.0
+        }
+      ],
+      "auto_strip_thinking": false
+    }
+  },
+  "versions": {
+    "pope_coco_evidence": "Yaml",
+    "pope_coco_neutral": "Yaml",
+    "pope_coco_ordinary": "Yaml",
+    "pope_gqa_evidence": "Yaml",
+    "pope_gqa_neutral": "Yaml",
+    "pope_gqa_ordinary": "Yaml"
+  },
+  "n-shot": {
+    "pope_coco_evidence": 0,
+    "pope_coco_neutral": 0,
+    "pope_coco_ordinary": 0,
+    "pope_gqa_evidence": 0,
+    "pope_gqa_neutral": 0,
+    "pope_gqa_ordinary": 0
+  },
+  "higher_is_better": {
+    "pope_coco_evidence": {
+      "pope_accuracy": true,
+      "pope_precision": true,
+      "pope_recall": true,
+      "pope_f1_score": true,
+      "pope_specificity": true,
+      "pope_hallucination_rate": false,
+      "pope_abstention_rate": true,
+      "pope_yes_ratio": true
+    },
+    "pope_coco_neutral": {
+      "pope_accuracy": true,
+      "pope_precision": true,
+      "pope_recall": true,
+      "pope_f1_score": true,
+      "pope_specificity": true,
+      "pope_hallucination_rate": false,
+      "pope_abstention_rate": true,
+      "pope_yes_ratio": true
+    },
+    "pope_coco_ordinary": {
+      "pope_accuracy": true,
+      "pope_precision": true,
+      "pope_recall": true,
+      "pope_f1_score": true,
+      "pope_specificity": true,
+      "pope_hallucination_rate": false,
+      "pope_abstention_rate": true,
+      "pope_yes_ratio": true
+    },
+    "pope_gqa_evidence": {
+      "pope_accuracy": true,
+      "pope_precision": true,
+      "pope_recall": true,
+      "pope_f1_score": true,
+      "pope_specificity": true,
+      "pope_hallucination_rate": false,
+      "pope_abstention_rate": true,
+      "pope_yes_ratio": true
+    },
+    "pope_gqa_neutral": {
+      "pope_accuracy": true,
+      "pope_precision": true,
+      "pope_recall": true,
+      "pope_f1_score": true,
+      "pope_specificity": true,
+      "pope_hallucination_rate": false,
+      "pope_abstention_rate": true,
+      "pope_yes_ratio": true
+    },
+    "pope_gqa_ordinary": {
+      "pope_accuracy": true,
+      "pope_precision": true,
+      "pope_recall": true,
+      "pope_f1_score": true,
+      "pope_specificity": true,
+      "pope_hallucination_rate": false,
+      "pope_abstention_rate": true,
+      "pope_yes_ratio": true
+    }
+  },
+  "n-samples": {
+    "pope_gqa_ordinary": {
+      "original": 9000,
+      "effective": 20
+    },
+    "pope_gqa_neutral": {
+      "original": 9000,
+      "effective": 20
+    },
+    "pope_gqa_evidence": {
+      "original": 9000,
+      "effective": 20
+    },
+    "pope_coco_ordinary": {
+      "original": 9000,
+      "effective": 20
+    },
+    "pope_coco_neutral": {
+      "original": 9000,
+      "effective": 20
+    },
+    "pope_coco_evidence": {
+      "original": 9000,
+      "effective": 20
+    }
+  },
+  "config": {
+    "model": "qwen2_5_vl",
+    "model_args": "pretrained=Qwen/Qwen2.5-VL-3B-Instruct",
+    "model_backend": "lmms_eval.models.chat.qwen2_5_vl.Qwen2_5_VL (chat)",
+    "batch_size": "1",
+    "batch_sizes": [],
+    "device": null,
+    "use_cache": null,
+    "limit": 20.0,
+    "offset": 0,
+    "bootstrap_iters": 100000,
+    "process_docs_parallel": 4,
+    "gen_kwargs": "",
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234,
+    "resolved_cli_args": {
+      "config": "",
+      "model": "qwen2_5_vl",
+      "tasks": "pope_coco_ordinary,pope_coco_neutral,pope_coco_evidence,pope_gqa_ordinary,pope_gqa_neutral,pope_gqa_evidence",
+      "model_args": "pretrained=Qwen/Qwen2.5-VL-3B-Instruct",
+      "launcher_args": null,
+      "num_fewshot": null,
+      "batch_size": "1",
+      "max_batch_size": null,
+      "device": null,
+      "output_path": "/mnt/c/Users/<you>/Documents/MSAI Classes/CMPE 297 - Computer Vision/Project/results/raw/smoke/",
+      "limit": 20.0,
+      "offset": 0,
+      "use_cache": null,
+      "cache_requests": null,
+      "fail_on_error": false,
+      "check_integrity": false,
+      "write_out": false,
+      "log_samples": true,
+      "wandb_log_samples": false,
+      "swanlab_log_samples": false,
+      "log_samples_suffix": "model_outputs",
+      "system_instruction": null,
+      "apply_chat_template": false,
+      "fewshot_as_multiturn": false,
+      "show_config": false,
+      "include_path": "/mnt/c/Users/<you>/Documents/MSAI Classes/CMPE 297 - Computer Vision/Project/tasks/pope_custom",
+      "gen_kwargs": "",
+      "reasoning_tags": "[[\"<think>\", \"</think>\"], [\"<analysis>\", \"</analysis>\"]]",
+      "verbosity": "INFO",
+      "wandb_args": "",
+      "swanlab_args": "",
+      "timezone": "Asia/Singapore",
+      "hf_hub_log_args": ",output_path=/mnt/c/Users/<you>/Documents/MSAI Classes/CMPE 297 - Computer Vision/Project/results/raw/smoke/",
+      "predict_only": false,
+      "seed": [
+        0,
+        1234,
+        1234,
+        1234
+      ],
+      "trust_remote_code": false,
+      "process_with_media": false,
+      "process_docs_parallel": 4,
+      "agentic_trace_mode": "basic",
+      "force_simple": false,
+      "tui": false,
+      "repeats": 1,
+      "baseline": null,
+      "max_tokens": null,
+      "power_analysis": false,
+      "effect_size": 0.03,
+      "alpha": 0.05,
+      "power": 0.8,
+      "correlation": 0.5,
+      "std_a": null,
+      "std_b": null
+    }
+  },
+  "git_hash": null,
+  "git_branch": null,
+  "lmms_eval_version": "unknown@unknown",
+  "date": "20261116_115301",
+  "throughput": {
+    "total_gen_tokens": 257,
+    "total_elapsed_time": 19.597506999969482,
+    "avg_speed": 13.113912907412162,
+    "avg_rank": 0.0
+  },
+  "usage": {},
+  "efficiency": {
+    "by_task": {
+      "pope_gqa_ordinary": {
+        "docs": 20.0,
+        "docs_with_token_counts": 20.0,
+        "total_input_tokens": 0.0,
+        "total_output_tokens": 41.0,
+        "total_tokens": 41.0,
+        "total_correct_score": 0.0,
+        "avg_output_tokens_per_sample": 2.05,
+        "tokens_per_correct_answer": null
+      },
+      "pope_gqa_neutral": {
+        "docs": 20.0,
+        "docs_with_token_counts": 20.0,
+        "total_input_tokens": 0.0,
+        "total_output_tokens": 41.0,
+        "total_tokens": 41.0,
+        "total_correct_score": 0.0,
+        "avg_output_tokens_per_sample": 2.05,
+        "tokens_per_correct_answer": null
+      },
+      "pope_gqa_evidence": {
+        "docs": 20.0,
+        "docs_with_token_counts": 20.0,
+        "total_input_tokens": 0.0,
+        "total_output_tokens": 47.0,
+        "total_tokens": 47.0,
+        "total_correct_score": 0.0,
+        "avg_output_tokens_per_sample": 2.35,
+        "tokens_per_correct_answer": null
+      },
+      "pope_coco_ordinary": {
+        "docs": 20.0,
+        "docs_with_token_counts": 20.0,
+        "total_input_tokens": 0.0,
+        "total_output_tokens": 40.0,
+        "total_tokens": 40.0,
+        "total_correct_score": 0.0,
+        "avg_output_tokens_per_sample": 2.0,
+        "tokens_per_correct_answer": null
+      },
+      "pope_coco_neutral": {
+        "docs": 20.0,
+        "docs_with_token_counts": 20.0,
+        "total_input_tokens": 0.0,
+        "total_output_tokens": 42.0,
+        "total_tokens": 42.0,
+        "total_correct_score": 0.0,
+        "avg_output_tokens_per_sample": 2.1,
+        "tokens_per_correct_answer": null
+      },
+      "pope_coco_evidence": {
+        "docs": 20.0,
+        "docs_with_token_counts": 20.0,
+        "total_input_tokens": 0.0,
+        "total_output_tokens": 46.0,
+        "total_tokens": 46.0,
+        "total_correct_score": 0.0,
+        "avg_output_tokens_per_sample": 2.3,
+        "tokens_per_correct_answer": null
+      }
+    },
+    "overall": {
+      "docs": 120.0,
+      "docs_with_token_counts": 120.0,
+      "total_input_tokens": 0.0,
+      "total_output_tokens": 257.0,
+      "total_tokens": 257.0,
+      "total_correct_score": 0.0,
+      "avg_output_tokens_per_sample": 2.1416666666666666,
+      "tokens_per_correct_answer": null
+    }
+  },
+  "task_hashes": {
+    "pope_gqa_ordinary": "94382598118046080a0052eb8007a59641016ab276e8aba10fe1dc7ee041a705",
+    "pope_gqa_neutral": "94382598118046080a0052eb8007a59641016ab276e8aba10fe1dc7ee041a705",
+    "pope_gqa_evidence": "94382598118046080a0052eb8007a59641016ab276e8aba10fe1dc7ee041a705",
+    "pope_coco_ordinary": "94382598118046080a0052eb8007a59641016ab276e8aba10fe1dc7ee041a705",
+    "pope_coco_neutral": "94382598118046080a0052eb8007a59641016ab276e8aba10fe1dc7ee041a705",
+    "pope_coco_evidence": "94382598118046080a0052eb8007a59641016ab276e8aba10fe1dc7ee041a705"
+  },
+  "model_source": "qwen2_5_vl",
+  "model_name": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "model_name_sanitized": "Qwen__Qwen2.5-VL-3B-Instruct",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 76.311092461,
+  "end_time": 105.855825199,
+  "total_evaluation_time_seconds": "29.544732737999993"
+}

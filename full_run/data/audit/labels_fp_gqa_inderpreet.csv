@@ -1,0 +1,101 @@
+audit_id,dataset,image,object,reviewer,verdict,depicted,tag,note,labelled_utc
+gqa_fp001,gqa,2326564.jpg,tree,inderpreet,present,0,label error,,2026-11-18T08:59:03+00:00
+gqa_fp002,gqa,2348606.jpg,plate,inderpreet,present,0,label error,,2026-11-18T08:59:07+00:00
+gqa_fp003,gqa,2366564.jpg,building,inderpreet,present,0,label error,,2026-11-18T08:59:08+00:00
+gqa_fp004,gqa,2368776.jpg,building,inderpreet,present,0,label error,,2026-11-18T08:59:10+00:00
+gqa_fp005,gqa,2346261.jpg,building,inderpreet,present,0,label error,,2026-11-18T08:59:12+00:00
+gqa_fp006,gqa,4860.jpg,tree,inderpreet,absent,0,similar object,,2026-11-18T08:59:20+00:00
+gqa_fp007,gqa,4867.jpg,tree,inderpreet,absent,0,similar object,,2026-11-18T08:59:25+00:00
+gqa_fp008,gqa,1592936.jpg,table,inderpreet,present,0,label error,,2026-11-18T08:59:29+00:00
+gqa_fp009,gqa,2335118.jpg,car,inderpreet,present,0,label error,,2026-11-18T08:59:32+00:00
+gqa_fp010,gqa,2395433.jpg,table,inderpreet,present,0,label error,,2026-11-18T08:59:34+00:00
+gqa_fp011,gqa,2376980.jpg,street light,inderpreet,present,0,label error,,2026-11-18T08:59:36+00:00
+gqa_fp012,gqa,2408335.jpg,tree,inderpreet,present,0,label error,,2026-11-18T08:59:38+00:00
+gqa_fp013,gqa,2413428.jpg,remote control,inderpreet,absent,0,other / no visible cause,,2026-11-18T10:39:02+00:00
+gqa_fp014,gqa,2375415.jpg,person,inderpreet,present,0,label error,,2026-11-18T08:59:47+00:00
+gqa_fp015,gqa,2360003.jpg,flag,inderpreet,uncertain,0,similar object,,2026-11-18T10:38:39+00:00
+gqa_fp016,gqa,1159437.jpg,person,inderpreet,present,0,label error,,2026-11-18T09:00:06+00:00
+gqa_fp017,gqa,2332695.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:00:08+00:00
+gqa_fp018,gqa,2344798.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:00:11+00:00
+gqa_fp019,gqa,2393822.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:00:13+00:00
+gqa_fp020,gqa,2375100.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:00:15+00:00
+gqa_fp021,gqa,2375017.jpg,car,inderpreet,present,0,label error,,2026-11-18T09:00:17+00:00
+gqa_fp022,gqa,2405889.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:00:19+00:00
+gqa_fp023,gqa,2369002.jpg,truck,inderpreet,present,0,label error,,2026-11-18T09:00:21+00:00
+gqa_fp024,gqa,2387117.jpg,bottle,inderpreet,present,0,label error,,2026-11-18T09:00:25+00:00
+gqa_fp025,gqa,2327131.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:00:27+00:00
+gqa_fp026,gqa,2368776.jpg,bowl,inderpreet,present,0,label error,,2026-11-18T09:00:29+00:00
+gqa_fp027,gqa,2383197.jpg,table,inderpreet,present,0,label error,,2026-11-18T09:00:30+00:00
+gqa_fp028,gqa,2411294.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:00:33+00:00
+gqa_fp029,gqa,2376143.jpg,table,inderpreet,absent,0,other / no visible cause,,2026-11-18T10:37:08+00:00
+gqa_fp030,gqa,2319837.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:00:41+00:00
+gqa_fp031,gqa,2414782.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:00:43+00:00
+gqa_fp032,gqa,2355027.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:00:45+00:00
+gqa_fp033,gqa,2368550.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:00:47+00:00
+gqa_fp034,gqa,2354917.jpg,chair,inderpreet,present,0,label error,,2026-11-18T09:00:49+00:00
+gqa_fp035,gqa,2319425.jpg,bottle,inderpreet,absent,0,other / no visible cause,,2026-11-18T10:36:39+00:00
+gqa_fp036,gqa,2373142.jpg,person,inderpreet,present,0,label error,,2026-11-18T09:01:06+00:00
+gqa_fp037,gqa,2357446.jpg,table,inderpreet,present,0,label error,,2026-11-18T09:01:07+00:00
+gqa_fp038,gqa,2330603.jpg,table,inderpreet,absent,0,co-occurrence prior,,2026-11-18T09:01:15+00:00
+gqa_fp039,gqa,2359185.jpg,plate,inderpreet,present,0,label error,,2026-11-18T09:01:27+00:00
+gqa_fp040,gqa,2390319.jpg,blanket,inderpreet,absent,0,other / no visible cause,,2026-11-18T10:35:49+00:00
+gqa_fp041,gqa,2373259.jpg,bottle,inderpreet,present,0,label error,,2026-11-18T09:01:33+00:00
+gqa_fp042,gqa,2386569.jpg,lamp,inderpreet,present,0,label error,,2026-11-18T09:01:38+00:00
+gqa_fp043,gqa,2364507.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:01:43+00:00
+gqa_fp044,gqa,2397009.jpg,napkin,inderpreet,present,0,label error,,2026-11-18T09:01:47+00:00
+gqa_fp045,gqa,1160088.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:01:51+00:00
+gqa_fp046,gqa,2380953.jpg,table,inderpreet,present,0,label error,,2026-11-18T09:01:58+00:00
+gqa_fp047,gqa,2406734.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:01+00:00
+gqa_fp048,gqa,2397689.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:03+00:00
+gqa_fp049,gqa,1159437.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:02:05+00:00
+gqa_fp050,gqa,2344877.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:02:09+00:00
+gqa_fp051,gqa,2370968.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:11+00:00
+gqa_fp052,gqa,1066.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:13+00:00
+gqa_fp053,gqa,2335118.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:02:15+00:00
+gqa_fp054,gqa,2389829.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:16+00:00
+gqa_fp055,gqa,2385857.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:17+00:00
+gqa_fp056,gqa,2384946.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:18+00:00
+gqa_fp057,gqa,2319137.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:20+00:00
+gqa_fp058,gqa,2400438.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:02:22+00:00
+gqa_fp059,gqa,2395431.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:23+00:00
+gqa_fp060,gqa,2372702.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:24+00:00
+gqa_fp061,gqa,2336371.jpg,bag,inderpreet,uncertain,0,similar object,,2026-11-18T10:34:53+00:00
+gqa_fp062,gqa,2400423.jpg,bag,inderpreet,present,0,label error,,2026-11-18T09:02:42+00:00
+gqa_fp063,gqa,2341487.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:02:44+00:00
+gqa_fp064,gqa,2341698.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:02:46+00:00
+gqa_fp065,gqa,2392114.jpg,mirror,inderpreet,uncertain,0,ambiguous category,,2026-11-18T10:49:21+00:00
+gqa_fp066,gqa,2411294.jpg,street light,inderpreet,uncertain,0,co-occurrence prior,,2026-11-18T09:03:21+00:00
+gqa_fp067,gqa,2341659.jpg,shelf,inderpreet,present,0,label error,,2026-11-18T09:03:24+00:00
+gqa_fp068,gqa,2408192.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:03:27+00:00
+gqa_fp069,gqa,2347302.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:03:28+00:00
+gqa_fp070,gqa,2348036.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:03:30+00:00
+gqa_fp071,gqa,2393352.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:03:33+00:00
+gqa_fp072,gqa,2329435.jpg,towel,inderpreet,uncertain,0,similar object,,2026-11-18T10:34:14+00:00
+gqa_fp073,gqa,2334460.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:04:02+00:00
+gqa_fp074,gqa,4364.jpg,shelf,inderpreet,present,0,label error,,2026-11-18T09:04:05+00:00
+gqa_fp075,gqa,2353069.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:04:06+00:00
+gqa_fp076,gqa,2352839.jpg,bag,inderpreet,present,0,label error,,2026-11-18T09:04:12+00:00
+gqa_fp077,gqa,713531.jpg,ball,inderpreet,present,0,label error,,2026-11-18T09:04:16+00:00
+gqa_fp078,gqa,2342741.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:04:18+00:00
+gqa_fp079,gqa,2332695.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:04:19+00:00
+gqa_fp080,gqa,2417905.jpg,bag,inderpreet,present,0,label error,,2026-11-18T09:04:21+00:00
+gqa_fp081,gqa,2358823.jpg,phone,inderpreet,present,0,label error,,2026-11-18T09:04:22+00:00
+gqa_fp082,gqa,2414129.jpg,plate,inderpreet,uncertain,0,similar object,,2026-11-18T09:04:42+00:00
+gqa_fp083,gqa,2372383.jpg,street light,inderpreet,uncertain,0,co-occurrence prior,,2026-11-18T09:05:00+00:00
+gqa_fp084,gqa,2373797.jpg,table,inderpreet,absent,0,co-occurrence prior,,2026-11-18T09:05:07+00:00
+gqa_fp085,gqa,2319825.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:05:09+00:00
+gqa_fp086,gqa,2374813.jpg,tree,inderpreet,absent,0,similar object,,2026-11-18T09:05:15+00:00
+gqa_fp087,gqa,2373198.jpg,table,inderpreet,present,0,label error,,2026-11-18T11:15:35+00:00
+gqa_fp088,gqa,2359328.jpg,curtain,inderpreet,absent,0,similar object,,2026-11-18T09:05:27+00:00
+gqa_fp089,gqa,2344852.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:05:29+00:00
+gqa_fp090,gqa,2345290.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:05:31+00:00
+gqa_fp091,gqa,2372539.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:05:33+00:00
+gqa_fp092,gqa,2350644.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:05:36+00:00
+gqa_fp093,gqa,2319247.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:05:39+00:00
+gqa_fp094,gqa,2403266.jpg,building,inderpreet,present,0,label error,,2026-11-18T09:05:41+00:00
+gqa_fp095,gqa,2326410.jpg,mirror,inderpreet,present,0,label error,,2026-11-18T09:05:43+00:00
+gqa_fp096,gqa,2330917.jpg,street light,inderpreet,absent,0,similar object,,2026-11-18T09:05:48+00:00
+gqa_fp097,gqa,2397689.jpg,tree,inderpreet,absent,0,co-occurrence prior,,2026-11-18T10:50:00+00:00
+gqa_fp098,gqa,2365495.jpg,tree,inderpreet,present,0,label error,,2026-11-18T09:06:08+00:00
+gqa_fp099,gqa,1159349.jpg,table,inderpreet,absent,0,other / no visible cause,,2026-11-18T10:32:10+00:00
+gqa_fp100,gqa,2410848.jpg,bottle,inderpreet,absent,0,other / no visible cause,,2026-11-18T10:31:36+00:00

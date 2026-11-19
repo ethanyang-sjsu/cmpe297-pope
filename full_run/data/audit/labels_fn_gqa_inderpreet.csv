@@ -1,0 +1,51 @@
+audit_id,dataset,image,object,reviewer,verdict,depicted,tag,note,labelled_utc
+gqa_fn001,gqa,2359959.jpg,sandwich,inderpreet,absent,0,label error,,2026-11-18T09:15:10+00:00
+gqa_fn002,gqa,2354196.jpg,shelf,inderpreet,present,0,small,,2026-11-18T09:15:15+00:00
+gqa_fn003,gqa,2326202.jpg,book,inderpreet,present,0,small,,2026-11-18T09:15:25+00:00
+gqa_fn004,gqa,2335056.jpg,boat,inderpreet,absent,0,label error,,2026-11-18T09:15:27+00:00
+gqa_fn005,gqa,2403460.jpg,towel,inderpreet,present,0,occluded or truncated,,2026-11-18T09:15:32+00:00
+gqa_fn006,gqa,2345601.jpg,bag,inderpreet,absent,0,label error,,2026-11-18T09:15:36+00:00
+gqa_fn007,gqa,2350826.jpg,ladder,inderpreet,present,0,small,,2026-11-18T09:15:40+00:00
+gqa_fn008,gqa,2365744.jpg,chair,inderpreet,present,0,unusual appearance,,2026-11-18T09:15:46+00:00
+gqa_fn009,gqa,2319425.jpg,bicycle,inderpreet,absent,0,label error,,2026-11-18T09:15:55+00:00
+gqa_fn010,gqa,2379764.jpg,bench,inderpreet,present,0,unusual appearance,,2026-11-18T09:15:58+00:00
+gqa_fn011,gqa,2410704.jpg,building,inderpreet,present,0,occluded or truncated,,2026-11-18T09:16:05+00:00
+gqa_fn012,gqa,2394023.jpg,basket,inderpreet,absent,0,label error,,2026-11-18T09:16:11+00:00
+gqa_fn013,gqa,2371808.jpg,house,inderpreet,uncertain,0,small,,2026-11-18T09:16:19+00:00
+gqa_fn014,gqa,2359886.jpg,person,inderpreet,absent,0,label error,,2026-11-18T09:16:22+00:00
+gqa_fn015,gqa,2345013.jpg,bag,inderpreet,present,0,unusual appearance,,2026-11-18T09:16:40+00:00
+gqa_fn016,gqa,2331673.jpg,street light,inderpreet,present,0,occluded or truncated,,2026-11-18T10:41:25+00:00
+gqa_fn017,gqa,2336704.jpg,candle,inderpreet,uncertain,0,small,,2026-11-18T09:17:01+00:00
+gqa_fn018,gqa,2347899.jpg,person,inderpreet,absent,0,label error,,2026-11-18T09:17:03+00:00
+gqa_fn019,gqa,2412071.jpg,tray,inderpreet,present,0,occluded or truncated,,2026-11-18T09:17:10+00:00
+gqa_fn020,gqa,713806.jpg,book,inderpreet,present,0,occluded or truncated,,2026-11-18T09:17:16+00:00
+gqa_fn021,gqa,2416048.jpg,ladder,inderpreet,present,0,unusual appearance,,2026-11-18T09:17:23+00:00
+gqa_fn022,gqa,2355027.jpg,car,inderpreet,present,0,small,,2026-11-18T09:17:31+00:00
+gqa_fn023,gqa,2372702.jpg,chair,inderpreet,absent,0,label error,,2026-11-18T09:17:37+00:00
+gqa_fn024,gqa,2318140.jpg,person,inderpreet,absent,0,label error,,2026-11-18T09:17:47+00:00
+gqa_fn025,gqa,2350644.jpg,phone,inderpreet,present,0,small,,2026-11-18T09:18:03+00:00
+gqa_fn026,gqa,2344852.jpg,person,inderpreet,present,0,occluded or truncated,,2026-11-18T09:18:17+00:00
+gqa_fn027,gqa,2358823.jpg,airplane,inderpreet,absent,0,label error,,2026-11-18T09:18:22+00:00
+gqa_fn028,gqa,2361343.jpg,car,inderpreet,absent,0,label error,,2026-11-18T09:18:24+00:00
+gqa_fn029,gqa,2321728.jpg,umbrella,inderpreet,present,0,occluded or truncated,,2026-11-18T09:18:28+00:00
+gqa_fn030,gqa,2333498.jpg,chair,inderpreet,present,0,occluded or truncated,,2026-11-18T09:18:41+00:00
+gqa_fn031,gqa,4776.jpg,candle,inderpreet,absent,0,label error,,2026-11-18T09:18:45+00:00
+gqa_fn032,gqa,150292.jpg,cup,inderpreet,present,0,small,,2026-11-18T09:19:04+00:00
+gqa_fn033,gqa,2316108.jpg,person,inderpreet,uncertain,0,occluded or truncated,,2026-11-18T09:19:11+00:00
+gqa_fn034,gqa,2386308.jpg,table,inderpreet,present,0,occluded or truncated,,2026-11-18T09:19:17+00:00
+gqa_fn035,gqa,2373262.jpg,camera,inderpreet,absent,0,label error,,2026-11-18T09:19:30+00:00
+gqa_fn036,gqa,2328520.jpg,bicycle,inderpreet,present,0,occluded or truncated,,2026-11-18T09:19:37+00:00
+gqa_fn037,gqa,150292.jpg,bottle,inderpreet,absent,0,label error,,2026-11-18T09:19:48+00:00
+gqa_fn038,gqa,2336704.jpg,car,inderpreet,absent,0,label error,,2026-11-18T09:19:52+00:00
+gqa_fn039,gqa,2323010.jpg,bowl,inderpreet,absent,0,label error,,2026-11-18T09:19:56+00:00
+gqa_fn040,gqa,2378302.jpg,tree,inderpreet,present,0,occluded or truncated,,2026-11-18T09:19:59+00:00
+gqa_fn041,gqa,2351404.jpg,shelf,inderpreet,present,0,occluded or truncated,,2026-11-18T09:20:09+00:00
+gqa_fn042,gqa,4776.jpg,cup,inderpreet,absent,0,label error,,2026-11-18T09:20:18+00:00
+gqa_fn043,gqa,1159507.jpg,car,inderpreet,present,0,small,,2026-11-18T09:20:29+00:00
+gqa_fn044,gqa,2359380.jpg,person,inderpreet,absent,0,label error,,2026-11-18T09:20:34+00:00
+gqa_fn045,gqa,2375415.jpg,napkin,inderpreet,present,0,occluded or truncated,,2026-11-18T09:20:42+00:00
+gqa_fn046,gqa,2410549.jpg,bag,inderpreet,present,0,unusual appearance,,2026-11-18T09:20:46+00:00
+gqa_fn047,gqa,2414326.jpg,plate,inderpreet,absent,0,label error,,2026-11-18T09:20:54+00:00
+gqa_fn048,gqa,2389312.jpg,table,inderpreet,absent,0,label error,,2026-11-18T09:20:59+00:00
+gqa_fn049,gqa,2319837.jpg,vase,inderpreet,present,0,small,,2026-11-18T09:21:03+00:00
+gqa_fn050,gqa,2402435.jpg,bicycle,inderpreet,absent,0,label error,,2026-11-18T09:21:07+00:00
