@@ -1,6 +1,6 @@
 import json
 
-FILE = "/home/ethan/finalproject/logs/Qwen__Qwen2.5-VL-3B-Instruct/20261118_175752_samples_custom_gqa_balanced.jsonl"
+FILE = "/home/ethan/finalproject/logs/Qwen__Qwen2.5-VL-3B-Instruct/20261118_175752_samples_custom_gqa_all.jsonl"
 
 
 def response_preview(records):
@@ -54,8 +54,8 @@ def foo(records):
     metric_dec_frac("F1", 2 * precision * recall, precision + recall)
     metric_dec_frac("Specificity", num_tn, num_tn+num_fp)
     metric_dec_frac("Yes ratio", num_yes, num_samples)
-    metric_dec_frac("FP rate", num_fp, num_samples)
-    metric_dec_frac("FN rate", num_fn, num_samples)
+    metric_dec_frac("FP rate", num_fp, num_fp+num_tn)
+    metric_dec_frac("FN rate", num_fn, num_fn+num_tp)
     metric_dec_frac("Abstention rate", num_abs, num_samples)
     metric_dec_frac("Abstain when ground truth is yes", abs_for_yes, num_abs)
     metric_dec_frac("Abstain when ground truth is no", abs_for_no, num_abs)
