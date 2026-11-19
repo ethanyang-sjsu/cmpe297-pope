@@ -15,7 +15,11 @@ pip show lmms_eval
 # sample output
 $USER/miniconda3/lib/python3.14/site-packages/lmms_eval
 ```
-## To get metrics:
+
+# To run
+Navigate into the subdirectories and see the corresponding READMEs.
+
+# To get metrics:
 1. Edit `manual_metrics.py`
     ```py
     FILE = "<log>"
@@ -25,7 +29,4 @@ $USER/miniconda3/lib/python3.14/site-packages/lmms_eval
     ```
 2. Run `manual_metrics.py`
 3. If needed, make edits to account for model responses that don't match `["yes", "no", "unsure"]`, and rerun
-
-## To run
-Navigate into the subdirectories and see the corresponding READMEs.
 
