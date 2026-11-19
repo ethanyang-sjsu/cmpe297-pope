@@ -1,0 +1,51 @@
+audit_id,dataset,image,object,reviewer,verdict,depicted,tag,note,labelled_utc
+coco_fn001,coco,000000178028.jpg,cup,inderpreet,present,0,small,,2026-11-18T09:06:56+00:00
+coco_fn002,coco,000000008277.jpg,bowl,inderpreet,present,0,unusual appearance,,2026-11-18T09:07:12+00:00
+coco_fn003,coco,000000340894.jpg,person,inderpreet,present,0,small,,2026-11-18T09:07:19+00:00
+coco_fn004,coco,000000397133.jpg,dining table,inderpreet,absent,0,label error,,2026-11-18T09:07:29+00:00
+coco_fn005,coco,000000367082.jpg,couch,inderpreet,uncertain,0,unusual appearance,,2026-11-18T10:40:40+00:00
+coco_fn006,coco,000000183246.jpg,person,inderpreet,absent,0,label error,,2026-11-18T09:07:40+00:00
+coco_fn007,coco,000000266892.jpg,chair,inderpreet,absent,0,label error,,2026-11-18T09:07:47+00:00
+coco_fn008,coco,000000530061.jpg,couch,inderpreet,present,0,occluded or truncated,,2026-11-18T09:07:52+00:00
+coco_fn009,coco,000000187243.jpg,sink,inderpreet,present,0,occluded or truncated,,2026-11-18T09:07:56+00:00
+coco_fn010,coco,000000120420.jpg,bench,inderpreet,present,0,small,,2026-11-18T09:08:02+00:00
+coco_fn011,coco,000000017899.jpg,bird,inderpreet,present,0,small,,2026-11-18T09:08:17+00:00
+coco_fn012,coco,000000570688.jpg,car,inderpreet,present,0,small,,2026-11-18T09:08:25+00:00
+coco_fn013,coco,000000530146.jpg,cup,inderpreet,absent,0,label error,,2026-11-18T09:08:28+00:00
+coco_fn014,coco,000000418696.jpg,truck,inderpreet,absent,0,label error,,2026-11-18T09:08:38+00:00
+coco_fn015,coco,000000338219.jpg,chair,inderpreet,present,0,occluded or truncated,,2026-11-18T09:08:55+00:00
+coco_fn016,coco,000000139260.jpg,bowl,inderpreet,present,0,unusual appearance,,2026-11-18T09:09:01+00:00
+coco_fn017,coco,000000340894.jpg,chair,inderpreet,present,0,occluded or truncated,,2026-11-18T09:09:08+00:00
+coco_fn018,coco,000000555597.jpg,person,inderpreet,present,0,small,,2026-11-18T09:09:16+00:00
+coco_fn019,coco,000000276285.jpg,cup,inderpreet,present,0,occluded or truncated,,2026-11-18T09:09:31+00:00
+coco_fn020,coco,000000193674.jpg,dog,inderpreet,present,0,unusual appearance,,2026-11-18T10:39:49+00:00
+coco_fn021,coco,000000508730.jpg,chair,inderpreet,present,0,occluded or truncated,,2026-11-18T10:39:57+00:00
+coco_fn022,coco,000000426372.jpg,motorcycle,inderpreet,absent,0,label error,,2026-11-18T09:10:15+00:00
+coco_fn023,coco,000000507667.jpg,backpack,inderpreet,present,0,small,,2026-11-18T09:10:25+00:00
+coco_fn024,coco,000000052412.jpg,truck,inderpreet,uncertain,0,small,,2026-11-18T09:11:04+00:00
+coco_fn025,coco,000000173008.jpg,orange,inderpreet,present,0,small,,2026-11-18T09:11:10+00:00
+coco_fn026,coco,000000113720.jpg,chair,inderpreet,present,0,occluded or truncated,,2026-11-18T09:11:16+00:00
+coco_fn027,coco,000000546325.jpg,dining table,inderpreet,absent,0,label error,,2026-11-18T09:11:21+00:00
+coco_fn028,coco,000000502737.jpg,cake,inderpreet,absent,0,label error,,2026-11-18T09:11:24+00:00
+coco_fn029,coco,000000363666.jpg,sandwich,inderpreet,absent,0,label error,,2026-11-18T09:11:46+00:00
+coco_fn030,coco,000000222735.jpg,person,inderpreet,present,0,occluded or truncated,,2026-11-18T09:11:51+00:00
+coco_fn031,coco,000000290179.jpg,bus,inderpreet,present,0,small,,2026-11-18T09:11:58+00:00
+coco_fn032,coco,000000255912.jpg,broccoli,inderpreet,absent,0,label error,,2026-11-18T09:12:02+00:00
+coco_fn033,coco,000000015335.jpg,bowl,inderpreet,present,0,occluded or truncated,,2026-11-18T09:12:09+00:00
+coco_fn034,coco,000000542776.jpg,bed,inderpreet,uncertain,1,occluded or truncated,,2026-11-18T09:12:18+00:00
+coco_fn035,coco,000000356432.jpg,cup,inderpreet,uncertain,0,unusual appearance,,2026-11-18T09:12:30+00:00
+coco_fn036,coco,000000530836.jpg,bottle,inderpreet,absent,0,label error,,2026-11-18T09:13:01+00:00
+coco_fn037,coco,000000172935.jpg,boat,inderpreet,absent,0,label error,,2026-11-18T09:13:07+00:00
+coco_fn038,coco,000000500464.jpg,toothbrush,inderpreet,present,0,small,,2026-11-18T09:13:17+00:00
+coco_fn039,coco,000000323151.jpg,chair,inderpreet,present,0,occluded or truncated,,2026-11-18T09:13:23+00:00
+coco_fn040,coco,000000054628.jpg,person,inderpreet,present,0,small,,2026-11-18T09:13:27+00:00
+coco_fn041,coco,000000414133.jpg,fire hydrant,inderpreet,present,0,small,,2026-11-18T09:13:35+00:00
+coco_fn042,coco,000000460147.jpg,motorcycle,inderpreet,present,0,small,,2026-11-18T09:13:45+00:00
+coco_fn043,coco,000000581357.jpg,bench,inderpreet,present,0,unusual appearance,,2026-11-18T09:13:53+00:00
+coco_fn044,coco,000000315187.jpg,person,inderpreet,present,0,occluded or truncated,,2026-11-18T09:14:07+00:00
+coco_fn045,coco,000000460147.jpg,traffic light,inderpreet,absent,0,label error,,2026-11-18T09:14:25+00:00
+coco_fn046,coco,000000405195.jpg,hot dog,inderpreet,absent,0,label error,,2026-11-18T09:14:27+00:00
+coco_fn047,coco,000000117719.jpg,cup,inderpreet,present,0,occluded or truncated,,2026-11-18T09:14:40+00:00
+coco_fn048,coco,000000127270.jpg,bench,inderpreet,absent,0,label error,,2026-11-18T09:14:46+00:00
+coco_fn049,coco,000000139260.jpg,spoon,inderpreet,present,0,occluded or truncated,,2026-11-18T09:14:52+00:00
+coco_fn050,coco,000000291551.jpg,bench,inderpreet,present,0,small,,2026-11-18T09:15:00+00:00

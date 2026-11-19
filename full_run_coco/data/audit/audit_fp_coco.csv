@@ -1,0 +1,101 @@
+audit_id,dataset,image,object,answer,response,splits,question_ids,size_bin,freq_rank,cooc_score,overlap
+coco_fp001,coco,000000139077.jpg,frisbee,no,yes,random,coco_ran_02482,,67,0.003419,0
+coco_fp002,coco,000000095707.jpg,chair,no,yes,popular;adversarial,coco_pop_01222;coco_adv_01224,,2,0.361594,0
+coco_fp003,coco,000000086956.jpg,backpack,no,yes,adversarial,coco_adv_00934,,9,0.10761,0
+coco_fp004,coco,000000514586.jpg,baseball glove,no,yes,adversarial,coco_adv_00940,,56,0.132123,0
+coco_fp005,coco,000000365745.jpg,car,no,yes,popular;adversarial,coco_pop_02964;coco_adv_02960,,4,0.481417,0
+coco_fp006,coco,000000136633.jpg,handbag,no,yes,adversarial,coco_adv_01778,,8,0.231629,0
+coco_fp007,coco,000000233033.jpg,bowl,no,yes,adversarial,coco_adv_01290,,7,0.187283,0
+coco_fp008,coco,000000211120.jpg,potted plant,no,yes,adversarial,coco_adv_00460,,25,0.149155,0
+coco_fp009,coco,000000095707.jpg,person,no,yes,popular;adversarial,coco_pop_01220;coco_adv_01220,,1,0.552492,0
+coco_fp010,coco,000000122166.jpg,handbag,no,yes,adversarial,coco_adv_01322,,8,0.203089,0
+coco_fp011,coco,000000252776.jpg,chair,no,yes,popular;adversarial,coco_pop_00398;coco_adv_00398,,2,0.320172,0
+coco_fp012,coco,000000078266.jpg,cell phone,no,yes,random,coco_ran_01470,,11,0.033335,0
+coco_fp013,coco,000000150224.jpg,bottle,no,yes,adversarial,coco_adv_02094,,6,0.12111,0
+coco_fp014,coco,000000529122.jpg,backpack,no,Yes.,random;adversarial,coco_ran_00434;coco_adv_00438,,9,0.091088,0
+coco_fp015,coco,000000255912.jpg,bowl,no,yes,adversarial,coco_adv_02814,,7,0.482394,0
+coco_fp016,coco,000000096001.jpg,dining table,no,yes,popular;adversarial,coco_pop_02454;coco_adv_02454,,3,0.325701,0
+coco_fp017,coco,000000456143.jpg,dining table,no,yes,popular;adversarial,coco_pop_01560;coco_adv_01556,,3,0.535588,0
+coco_fp018,coco,000000037777.jpg,bowl,no,yes,adversarial,coco_adv_00696,,7,0.348183,0
+coco_fp019,coco,000000527616.jpg,baseball bat,no,yes,random,coco_ran_02300,,44,0.035298,0
+coco_fp020,coco,000000162092.jpg,dining table,no,yes,popular;adversarial,coco_pop_00350;coco_adv_00352,,3,0.438497,0
+coco_fp021,coco,000000097994.jpg,baseball glove,no,yes,random,coco_ran_00166,,56,0.001623,0
+coco_fp022,coco,000000321214.jpg,dining table,no,yes,popular;adversarial,coco_pop_01484;coco_adv_01486,,3,0.365365,0
+coco_fp023,coco,000000099114.jpg,backpack,no,yes,adversarial,coco_adv_00924,,9,0.259173,0
+coco_fp024,coco,000000266892.jpg,sports ball,no,yes,adversarial,coco_adv_00886,,34,0.247776,0
+coco_fp025,coco,000000172571.jpg,dining table,no,yes,popular;adversarial,coco_pop_00784;coco_adv_00786,,3,0.448713,0
+coco_fp026,coco,000000164602.jpg,bottle,no,yes,adversarial,coco_adv_01610,,6,0.285403,0
+coco_fp027,coco,000000482436.jpg,handbag,no,yes,popular,coco_pop_01212,,8,0.058471,0
+coco_fp028,coco,000000013546.jpg,car,no,yes,popular;adversarial,coco_pop_00798;coco_adv_00796,,4,0.317019,0
+coco_fp029,coco,000000032334.jpg,dining table,no,yes,random;popular;adversarial,coco_ran_01274;coco_pop_01274;coco_adv_01274,,3,0.235101,0
+coco_fp030,coco,000000357737.jpg,backpack,no,yes,adversarial,coco_adv_01370,,9,0.212827,0
+coco_fp031,coco,000000112798.jpg,chair,no,yes,popular,coco_pop_02488,,2,0.346311,0
+coco_fp032,coco,000000170191.jpg,backpack,no,yes,adversarial,coco_adv_01536,,9,0.195632,0
+coco_fp033,coco,000000273711.jpg,handbag,no,yes,popular,coco_pop_02172,,8,0.081417,0
+coco_fp034,coco,000000570688.jpg,chair,no,yes,popular;adversarial,coco_pop_00998;coco_adv_01000,,2,0.106242,0
+coco_fp035,coco,000000099039.jpg,dining table,no,yes,popular;adversarial,coco_pop_00760;coco_adv_00762,,3,0.47428,0
+coco_fp036,coco,000000031620.jpg,dining table,no,yes,popular;adversarial,coco_pop_02516;coco_adv_02516,,3,0.392865,0
+coco_fp037,coco,000000432553.jpg,chair,no,yes,popular;adversarial,coco_pop_01916;coco_adv_01920,,2,0.151795,0
+coco_fp038,coco,000000482436.jpg,chair,no,yes,popular;adversarial,coco_pop_01208;coco_adv_01210,,2,0.320839,0
+coco_fp039,coco,000000437205.jpg,chair,no,yes,popular;adversarial,coco_pop_00890;coco_adv_00890,,2,0.3623,0
+coco_fp040,coco,000000527784.jpg,knife,no,yes,adversarial,coco_adv_02128,,10,0.345196,0
+coco_fp041,coco,000000050811.jpg,chair,no,yes,popular;adversarial,coco_pop_02900;coco_adv_02902,,2,0.267058,0
+coco_fp042,coco,000000055528.jpg,chair,no,yes,popular;adversarial,coco_pop_02588;coco_adv_02590,,2,0.276613,0
+coco_fp043,coco,000000017899.jpg,sheep,no,yes,random,coco_ran_02926,,74,0.00095,0
+coco_fp044,coco,000000429109.jpg,truck,no,yes,adversarial,coco_adv_00730,,13,0.19129,0
+coco_fp045,coco,000000064084.jpg,fork,no,yes,adversarial,coco_adv_02910,,14,0.260558,0
+coco_fp046,coco,000000463522.jpg,handbag,no,yes,adversarial,coco_adv_01046,,8,0.212111,0
+coco_fp047,coco,000000520832.jpg,backpack,no,yes,adversarial,coco_adv_02254,,9,0.204086,0
+coco_fp048,coco,000000511760.jpg,truck,no,yes,random;adversarial,coco_ran_02858;coco_adv_02858,,13,0.173501,0
+coco_fp049,coco,000000402720.jpg,dining table,no,yes,popular,coco_pop_02230,,3,0.381629,0
+coco_fp050,coco,000000228214.jpg,chair,no,yes,popular;adversarial,coco_pop_01598;coco_adv_01602,,2,0.262648,0
+coco_fp051,coco,000000449190.jpg,dining table,no,yes,popular;adversarial,coco_pop_01368;coco_adv_01364,,3,0.553373,0
+coco_fp052,coco,000000015254.jpg,dining table,no,yes,popular;adversarial,coco_pop_00858;coco_adv_00856,,3,0.564812,0
+coco_fp053,coco,000000365208.jpg,dining table,no,yes,popular;adversarial,coco_pop_00524;coco_adv_00524,,3,0.198099,0
+coco_fp054,coco,000000489305.jpg,dining table,no,Yes.,popular;adversarial,coco_pop_01636;coco_adv_01634,,3,0.344582,0
+coco_fp055,coco,000000422670.jpg,dining table,no,yes,popular,coco_pop_01132,,3,0.144374,0
+coco_fp056,coco,000000301563.jpg,snowboard,no,yes,adversarial,coco_adv_01648,,79,0.037987,0
+coco_fp057,coco,000000168883.jpg,chair,no,yes,popular;adversarial,coco_pop_02576;coco_adv_02578,,2,0.20059,0
+coco_fp058,coco,000000162092.jpg,knife,no,yes,adversarial,coco_adv_00354,,10,0.315135,0
+coco_fp059,coco,000000304984.jpg,dining table,no,Yes.,popular;adversarial,coco_pop_02400;coco_adv_02396,,3,0.509252,0
+coco_fp060,coco,000000422670.jpg,chair,no,yes,popular;adversarial,coco_pop_01130;coco_adv_01132,,2,0.252224,0
+coco_fp061,coco,000000468925.jpg,dining table,no,yes,popular;adversarial,coco_pop_01182;coco_adv_01178,,3,0.543588,0
+coco_fp062,coco,000000209530.jpg,dining table,no,yes,popular;adversarial,coco_pop_01018;coco_adv_01016,,3,0.362147,0
+coco_fp063,coco,000000260105.jpg,dining table,no,yes,popular;adversarial,coco_pop_00408;coco_adv_00406,,3,0.55731,0
+coco_fp064,coco,000000092939.jpg,dining table,no,yes,popular;adversarial,coco_pop_02360;coco_adv_02360,,3,0.430459,0
+coco_fp065,coco,000000453302.jpg,oven,no,yes,adversarial,coco_adv_01300,,27,0.357863,0
+coco_fp066,coco,000000567898.jpg,dining table,no,yes,popular;adversarial,coco_pop_02118;coco_adv_02116,,3,0.495786,0
+coco_fp067,coco,000000297562.jpg,bottle,no,yes,popular,coco_pop_00078,,6,0.0714,0
+coco_fp068,coco,000000562843.jpg,dining table,no,yes,popular;adversarial,coco_pop_01314;coco_adv_01312,,3,0.284695,0
+coco_fp069,coco,000000319696.jpg,dining table,no,yes,popular,coco_pop_01242,,3,0.224608,0
+coco_fp070,coco,000000473237.jpg,dining table,no,yes,popular;adversarial,coco_pop_01448;coco_adv_01448,,3,0.315365,0
+coco_fp071,coco,000000222735.jpg,chair,no,yes,popular;adversarial,coco_pop_02942;coco_adv_02942,,2,0.376904,0
+coco_fp072,coco,000000441586.jpg,truck,no,yes,adversarial,coco_adv_00378,,13,0.167512,0
+coco_fp073,coco,000000181753.jpg,wine glass,no,yes,random,coco_ran_00218,,41,0.081356,0
+coco_fp074,coco,000000462371.jpg,wine glass,no,Yes.,random,coco_ran_02316,,41,0.101254,0
+coco_fp075,coco,000000119828.jpg,keyboard,no,yes,random;adversarial,coco_ran_00136;coco_adv_00138,,45,0.275327,0
+coco_fp076,coco,000000551439.jpg,chair,no,yes,popular;adversarial,coco_pop_00170;coco_adv_00172,,2,0.252224,0
+coco_fp077,coco,000000420916.jpg,handbag,no,yes,adversarial,coco_adv_02532,,8,0.231493,0
+coco_fp078,coco,000000261318.jpg,backpack,no,yes,adversarial,coco_adv_01620,,9,0.202105,0
+coco_fp079,coco,000000248400.jpg,dining table,no,yes,popular;adversarial,coco_pop_02938;coco_adv_02938,,3,0.387735,0
+coco_fp080,coco,000000427256.jpg,chair,no,yes,popular;adversarial,coco_pop_00806;coco_adv_00806,,2,0.236206,0
+coco_fp081,coco,000000015335.jpg,dining table,no,yes,popular;adversarial,coco_pop_01816;coco_adv_01818,,3,0.327051,0
+coco_fp082,coco,000000534041.jpg,sandwich,no,yes,adversarial,coco_adv_02284,,29,0.085409,0
+coco_fp083,coco,000000542776.jpg,chair,no,yes,popular;adversarial,coco_pop_02912;coco_adv_02916,,2,0.264168,0
+coco_fp084,coco,000000017899.jpg,knife,no,yes,adversarial,coco_adv_02926,,10,0.20855,0
+coco_fp085,coco,000000191013.jpg,cup,no,yes,popular,coco_pop_00876,,5,0.116393,0
+coco_fp086,coco,000000413247.jpg,keyboard,no,yes,adversarial,coco_adv_02152,,45,0.291711,0
+coco_fp087,coco,000000218091.jpg,dining table,no,yes,popular;adversarial,coco_pop_02032;coco_adv_02032,,3,0.230449,0
+coco_fp088,coco,000000003156.jpg,bowl,no,yes,adversarial,coco_adv_01464,,7,0.183817,0
+coco_fp089,coco,000000349480.jpg,dining table,no,yes,popular;adversarial,coco_pop_01836;coco_adv_01834,,3,0.365593,0
+coco_fp090,coco,000000446651.jpg,truck,no,yes,adversarial,coco_adv_02552,,13,0.223104,0
+coco_fp091,coco,000000475484.jpg,handbag,no,yes,adversarial,coco_adv_01726,,8,0.141994,0
+coco_fp092,coco,000000462371.jpg,dining table,no,Yes.,popular;adversarial,coco_pop_02314;coco_adv_02316,,3,0.391764,0
+coco_fp093,coco,000000128051.jpg,car,no,yes,adversarial,coco_adv_02224,,4,0.527415,0
+coco_fp094,coco,000000176857.jpg,bottle,no,yes,adversarial,coco_adv_01176,,6,0.151012,0
+coco_fp095,coco,000000211825.jpg,dining table,no,yes,popular;adversarial,coco_pop_01282;coco_adv_01282,,3,0.325241,0
+coco_fp096,coco,000000025560.jpg,laptop,no,yes,adversarial,coco_adv_02110,,24,0.162389,0
+coco_fp097,coco,000000326541.jpg,truck,no,yes,adversarial,coco_adv_02652,,13,0.125881,0
+coco_fp098,coco,000000400794.jpg,dining table,no,yes,popular;adversarial,coco_pop_01672;coco_adv_01674,,3,0.389066,0
+coco_fp099,coco,000000417285.jpg,dining table,no,Yes.,popular;adversarial,coco_pop_01318;coco_adv_01316,,3,0.487434,0
+coco_fp100,coco,000000549220.jpg,handbag,no,yes,adversarial,coco_adv_00410,,8,0.115635,0

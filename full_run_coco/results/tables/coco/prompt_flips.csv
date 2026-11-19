@@ -1,0 +1,7 @@
+dataset,prompt_a,prompt_b,label,n,flipped,yes->yes,yes->no,yes->abstain,no->yes,no->no,no->abstain,abstain->yes,abstain->no,abstain->abstain
+coco,ordinary,neutral,yes,1500,48,1278,13,0,35,174,0,0,0,0
+coco,ordinary,neutral,no,3630,36,85,18,0,18,3509,0,0,0,0
+coco,ordinary,evidence,yes,1500,152,1289,2,0,89,59,61,0,0,0
+coco,ordinary,evidence,no,3630,2173,99,3,1,105,1358,2064,0,0,0
+coco,neutral,evidence,yes,1500,138,1307,6,0,71,55,61,0,0,0
+coco,neutral,evidence,no,3630,2179,95,5,3,109,1356,2062,0,0,0

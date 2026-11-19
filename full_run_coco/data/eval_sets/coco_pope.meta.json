@@ -1,0 +1,28 @@
+{
+  "dataset": "coco",
+  "output": "coco_pope.jsonl",
+  "built_utc": "2026-11-16T02:44:30+00:00",
+  "builder": "src/build_pope_coco.py",
+  "seed": 297,
+  "k_per_image": 3,
+  "images_from": "archive/pope_val2017.jsonl",
+  "n_images": 500,
+  "n_eligible_images": 2405,
+  "n_rows": 9000,
+  "counts": {
+    "random/yes": 1500,
+    "random/no": 1500,
+    "popular/yes": 1500,
+    "popular/no": 1500,
+    "adversarial/yes": 1500,
+    "adversarial/no": 1500
+  },
+  "positive_size_bins": {
+    "large": 892,
+    "medium": 412,
+    "small": 196
+  },
+  "annotation_file": "coco/annotations/instances_val2017.json",
+  "annotation_sha256": "e8c7f7908f1d7278341fae127d0da654f102f11bd7b21d8aeefa635b8c810b6f",
+  "output_sha256": "2b006095bc7d7997f28927db0e2085d8c735ca87d4a84c46fcad80805f7839de"
+}

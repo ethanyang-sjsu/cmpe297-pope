@@ -1,0 +1,51 @@
+audit_id,dataset,image,object,answer,response,splits,question_ids,size_bin,freq_rank,cooc_score,overlap
+coco_fn001,coco,000000178028.jpg,cup,yes,no,random;popular;adversarial,coco_ran_00681;coco_pop_00681;coco_adv_00681,small,5,,0
+coco_fn002,coco,000000008277.jpg,bowl,yes,no,random;popular;adversarial,coco_ran_00105;coco_pop_00105;coco_adv_00105,large,7,,0
+coco_fn003,coco,000000340894.jpg,person,yes,no,random;popular;adversarial,coco_ran_00561;coco_pop_00561;coco_adv_00561,large,1,,0
+coco_fn004,coco,000000397133.jpg,dining table,yes,no,random;popular;adversarial,coco_ran_02211;coco_pop_02211;coco_adv_02211,large,3,,0
+coco_fn005,coco,000000367082.jpg,couch,yes,no,random;popular;adversarial,coco_ran_02573;coco_pop_02573;coco_adv_02573,large,16,,0
+coco_fn006,coco,000000183246.jpg,person,yes,no,random;popular;adversarial,coco_ran_02675;coco_pop_02675;coco_adv_02675,small,1,,0
+coco_fn007,coco,000000266892.jpg,chair,yes,no,random;popular;adversarial,coco_ran_00883;coco_pop_00883;coco_adv_00883,small,2,,0
+coco_fn008,coco,000000530061.jpg,couch,yes,no,random;popular;adversarial,coco_ran_00745;coco_pop_00745;coco_adv_00745,large,16,,0
+coco_fn009,coco,000000187243.jpg,sink,yes,no,random;popular;adversarial,coco_ran_00065;coco_pop_00065;coco_adv_00065,medium,18,,0
+coco_fn010,coco,000000120420.jpg,bench,yes,no,random;popular;adversarial,coco_ran_02891;coco_pop_02891;coco_adv_02891,small,23,,0
+coco_fn011,coco,000000017899.jpg,bird,yes,no,random;popular;adversarial,coco_ran_02923;coco_pop_02923;coco_adv_02923,small,58,,0
+coco_fn012,coco,000000570688.jpg,car,yes,no,random;popular;adversarial,coco_ran_01001;coco_pop_01001;coco_adv_01001,small,4,,0
+coco_fn013,coco,000000530146.jpg,cup,yes,no,random;popular;adversarial,coco_ran_01475;coco_pop_01475;coco_adv_01475,medium,5,,0
+coco_fn014,coco,000000418696.jpg,truck,yes,no,random;popular;adversarial,coco_ran_01947;coco_pop_01947;coco_adv_01947,small,13,,0
+coco_fn015,coco,000000338219.jpg,chair,yes,no,random;popular;adversarial,coco_ran_02771;coco_pop_02771;coco_adv_02771,small,2,,0
+coco_fn016,coco,000000139260.jpg,bowl,yes,no,random;popular;adversarial,coco_ran_01829;coco_pop_01829;coco_adv_01829,large,7,,0
+coco_fn017,coco,000000340894.jpg,chair,yes,no,random;popular;adversarial,coco_ran_00559;coco_pop_00559;coco_adv_00559,medium,2,,0
+coco_fn018,coco,000000555597.jpg,person,yes,no,random;popular;adversarial,coco_ran_00369;coco_pop_00369;coco_adv_00369,small,1,,0
+coco_fn019,coco,000000276285.jpg,cup,yes,no,random;popular;adversarial,coco_ran_02543;coco_pop_02543;coco_adv_02543,medium,5,,0
+coco_fn020,coco,000000193674.jpg,dog,yes,no,random;popular;adversarial,coco_ran_00823;coco_pop_00823;coco_adv_00823,large,28,,0
+coco_fn021,coco,000000508730.jpg,chair,yes,no,random;popular;adversarial,coco_ran_01881;coco_pop_01881;coco_adv_01881,large,2,,0
+coco_fn022,coco,000000426372.jpg,motorcycle,yes,no,random;popular;adversarial,coco_ran_00609;coco_pop_00609;coco_adv_00609,medium,30,,0
+coco_fn023,coco,000000507667.jpg,backpack,yes,no,random;popular;adversarial,coco_ran_01931;coco_pop_01931;coco_adv_01931,small,9,,0
+coco_fn024,coco,000000052412.jpg,truck,yes,no,random;popular;adversarial,coco_ran_00201;coco_pop_00201;coco_adv_00201,small,13,,0
+coco_fn025,coco,000000173008.jpg,orange,yes,no,random;popular;adversarial,coco_ran_01403;coco_pop_01403;coco_adv_01403,medium,39,,0
+coco_fn026,coco,000000113720.jpg,chair,yes,no,random;popular;adversarial,coco_ran_01953;coco_pop_01953;coco_adv_01953,small,2,,0
+coco_fn027,coco,000000546325.jpg,dining table,yes,no,random;popular;adversarial,coco_ran_02063;coco_pop_02063;coco_adv_02063,large,3,,0
+coco_fn028,coco,000000502737.jpg,cake,yes,no,random;popular;adversarial,coco_ran_02445;coco_pop_02445;coco_adv_02445,large,22,,0
+coco_fn029,coco,000000363666.jpg,sandwich,yes,no,random;popular;adversarial,coco_ran_00907;coco_pop_00907;coco_adv_00907,medium,29,,0
+coco_fn030,coco,000000222735.jpg,person,yes,no,random;popular;adversarial,coco_ran_02943;coco_pop_02943;coco_adv_02943,large,1,,0
+coco_fn031,coco,000000290179.jpg,bus,yes,no,random;popular;adversarial,coco_ran_00659;coco_pop_00659;coco_adv_00659,small,33,,0
+coco_fn032,coco,000000255912.jpg,broccoli,yes,no,random;popular;adversarial,coco_ran_02813;coco_pop_02813;coco_adv_02813,large,55,,0
+coco_fn033,coco,000000015335.jpg,bowl,yes,no,random;popular;adversarial,coco_ran_01817;coco_pop_01817;coco_adv_01817,medium,7,,0
+coco_fn034,coco,000000542776.jpg,bed,yes,no,random;popular;adversarial,coco_ran_02913;coco_pop_02913;coco_adv_02913,large,43,,0
+coco_fn035,coco,000000356432.jpg,cup,yes,no,random;popular;adversarial,coco_ran_02357;coco_pop_02357;coco_adv_02357,small,5,,0
+coco_fn036,coco,000000530836.jpg,bottle,yes,no,random;popular;adversarial,coco_ran_00601;coco_pop_00601;coco_adv_00601,small,6,,0
+coco_fn037,coco,000000172935.jpg,boat,yes,No,random;popular;adversarial,coco_ran_02699;coco_pop_02699;coco_adv_02699,medium,54,,0
+coco_fn038,coco,000000500464.jpg,toothbrush,yes,no,random;popular;adversarial,coco_ran_00339;coco_pop_00339;coco_adv_00339,small,50,,0
+coco_fn039,coco,000000323151.jpg,chair,yes,no,random;popular;adversarial,coco_ran_01889;coco_pop_01889;coco_adv_01889,small,2,,0
+coco_fn040,coco,000000054628.jpg,person,yes,no,random;popular;adversarial,coco_ran_01305;coco_pop_01305;coco_adv_01305,small,1,,0
+coco_fn041,coco,000000414133.jpg,fire hydrant,yes,no,random;popular;adversarial,coco_ran_01269;coco_pop_01269;coco_adv_01269,small,59,,0
+coco_fn042,coco,000000460147.jpg,motorcycle,yes,no,random;popular;adversarial,coco_ran_00617;coco_pop_00617;coco_adv_00617,small,30,,0
+coco_fn043,coco,000000581357.jpg,bench,yes,no,random;popular;adversarial,coco_ran_00317;coco_pop_00317;coco_adv_00317,medium,23,,0
+coco_fn044,coco,000000315187.jpg,person,yes,no,random;popular;adversarial,coco_ran_02549;coco_pop_02549;coco_adv_02549,small,1,,0
+coco_fn045,coco,000000460147.jpg,traffic light,yes,no,random;popular;adversarial,coco_ran_00615;coco_pop_00615;coco_adv_00615,small,17,,0
+coco_fn046,coco,000000405195.jpg,hot dog,yes,no,random;popular;adversarial,coco_ran_01193;coco_pop_01193;coco_adv_01193,medium,60,,0
+coco_fn047,coco,000000117719.jpg,cup,yes,no,random;popular;adversarial,coco_ran_02605;coco_pop_02605;coco_adv_02605,medium,5,,0
+coco_fn048,coco,000000127270.jpg,bench,yes,no,random;popular;adversarial,coco_ran_00869;coco_pop_00869;coco_adv_00869,medium,23,,0
+coco_fn049,coco,000000139260.jpg,spoon,yes,no,random;popular;adversarial,coco_ran_01825;coco_pop_01825;coco_adv_01825,large,21,,0
+coco_fn050,coco,000000291551.jpg,bench,yes,no,random;popular;adversarial,coco_ran_02999;coco_pop_02999;coco_adv_02999,small,23,,0
