@@ -1,4 +1,4 @@
-## To setup GQA:
+# To setup GQA (stock):
 1. Get GQA question data
     - All split
         - `val-00000-of-00002.parquet` from https://huggingface.co/datasets/lmms-lab-encoder/GQA/tree/main/val_all_instructions
@@ -6,7 +6,7 @@
     - Balanced split
         - `val-00000-of-00001.parquet` from https://huggingface.co/datasets/lmms-lab-encoder/GQA/tree/main/val_balanced_instructions
         - Run `gqa_balanced_to_jsonl.py`
-2. Move this repo's `./custom_tasks/` into `<lmms_eval path>/tasks/`
+2. Move `./custom_tasks/` into `<lmms_eval path>/tasks/`
 3. Edit `./custom_tasks/custom_gqa_*.yaml`
     ```yaml
     dataset_kwargs:

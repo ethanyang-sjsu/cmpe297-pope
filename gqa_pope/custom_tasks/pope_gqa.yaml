@@ -1,0 +1,5 @@
+group: pope_gqa
+task:
+  - pope_gqa_random
+  - pope_gqa_popular
+  - pope_gqa_adversarial
